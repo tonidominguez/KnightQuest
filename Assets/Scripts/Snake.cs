@@ -42,18 +42,10 @@ public class Snake : Enemigos
             bool closeEnough = FastApproximately(startPos.x, transform.position.x, 3.5f)
                             && FastApproximately(startPos.z, transform.position.z, 3.5f);
 
-            /*if (closeEnough)
-            {
-                // if(this.gameObject.GetComponent<NavMeshAgent>()) this.gameObject.GetComponent<NavMeshAgent>().SetDestination(transform.position);
-                // if(this.gameObject.GetComponent<Animator>()) this.gameObject.GetComponent<Animator>().SetInteger("estado", 0);
-                //this.gameObject.GetComponent<NavMeshAgent>().SetDestination(transform.position);
-                this.gameObject.GetComponent<Animator>().SetInteger("estado", 0);
-            }*/
 
             if (distancia <= maxDistancia && distancia >= minDistancia)
             {
                 if(this.gameObject.GetComponent<Animator>()) this.gameObject.GetComponent<Animator>().SetInteger("estado", 1);
-                //this.gameObject.transform.position = Vector3.MoveTowards(this.gameObject.transform.position, player.gameObject.transform.position, velocidad * Time.deltaTime);
             }
             else if (distancia <= minDistancia) //Distancia para atacar
             {
@@ -79,7 +71,6 @@ public class Snake : Enemigos
                 estoyMuerto = true;
                 soundSnakeDie.GetComponent<AudioSource>().Play();
                 GetComponent<Animator>().SetTrigger("morir");
-                //GetComponent<NavMeshAgent>().SetDestination(transform.position);
                 Invoke("EliminarAnimator",3.20f);
             }
             else

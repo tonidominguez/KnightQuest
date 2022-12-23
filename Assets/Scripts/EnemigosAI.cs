@@ -34,7 +34,6 @@ public class EnemigosAI : MonoBehaviour
     void chase()
     {
         transform.LookAt(player.transform.position);
-        //transform.Translate(Vector3.forward * enemySpeed * Time.deltaTime);
         transform.Translate(0, 0, enemySpeed * Time.deltaTime);
         transform.position = Vector3.MoveTowards(transform.position, player.transform.position, enemySpeed * Time.deltaTime);
     }

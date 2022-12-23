@@ -78,18 +78,13 @@ public class PersonajeController : MonoBehaviour
 
     private void Start()
     {
-        //puntoASeguir = this.gameObject.transform.position;
     }
 
     private void Update()
     {
-
-        //On click mouse, player jumps
-        
+       
         characterController.Move(move * Speed * Time.deltaTime);
-        // for jump
         if (Input.GetKeyDown(KeyCode.Space) && !isJumping)
-        // (-0.5) change this value according to your character y position + 1
         {
             velocity.y = jump;
             isJumping = true;
@@ -119,22 +114,18 @@ public class PersonajeController : MonoBehaviour
             velocity.y = 0;
             isJumping = false;
             this.GetComponent<Animator>().SetBool("saltar",false);
-            //this.GetComponent<Animator>().SetInteger("estadoPlayer", 0);
         }
         //Horizontal movement
         if  (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0)
         {
-            //this.gameObject.transform.LookAt(puntoASeguir);
             if(soundHorseGallop.GetComponent<AudioSource>().isPlaying == false)
             {
                 soundHorseGallop.GetComponent<AudioSource>().Play();
             }
-            //this.GetComponent<Animator>().SetBool("saltar",false);
             this.GetComponent<Animator>().SetInteger("estadoPlayer", 1);
         }
         else 
         {
-            //this.GetComponent<Animator>().SetBool("saltar",false);
             this.GetComponent<Animator>().SetInteger("estadoPlayer", 0);
             soundHorseGallop.GetComponent<AudioSource>().Stop();
         }
@@ -162,7 +153,6 @@ public class PersonajeController : MonoBehaviour
             Invoke("StopAttacking", 0.5f);
         }
 
-        //distancia = Vector3.Distance(this.gameObject.transform.position, puntoASeguir);
     }
 
     private void OnTriggerEnter(Collider other)
@@ -269,7 +259,6 @@ public class PersonajeController : MonoBehaviour
         {
             General.SetVida(General.GetVida() + health);
         }
-        //Debug.Log(acumulador.GetComponent<UIController>().barraVida.value);
         acumulador.GetComponent<UIController>().SetBarraDeVida();
         soundPlayerHealth.GetComponent<AudioSource>().Play();
         this.gameObject.transform.GetChild(1).gameObject.transform.GetComponent<Renderer>().material.color = new Color(0, 0.78f, 0.78f, 0.25f);

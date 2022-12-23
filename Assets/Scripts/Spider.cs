@@ -45,9 +45,6 @@ public class Spider : Enemigos
 
             if (closeEnough)
             {
-                // if(this.gameObject.GetComponent<NavMeshAgent>()) this.gameObject.GetComponent<NavMeshAgent>().SetDestination(transform.position);
-                // if(this.gameObject.GetComponent<Animator>()) this.gameObject.GetComponent<Animator>().SetInteger("estado", 0);
-                //this.gameObject.GetComponent<NavMeshAgent>().SetDestination(transform.position);
                 this.gameObject.GetComponent<Animator>().SetInteger("estado", 0);
                 Debug.Log("sonidoSpiderWalk STOP");
             }
@@ -63,7 +60,6 @@ public class Spider : Enemigos
                 if (distancia <= maxDistanciaPerseguir && distancia >= minDistancia)
                 {
                     if(this.gameObject.GetComponent<Animator>()) this.gameObject.GetComponent<Animator>().SetInteger("estado", 1);
-                    //this.gameObject.transform.position = Vector3.MoveTowards(this.gameObject.transform.position, player.gameObject.transform.position, velocidad * Time.deltaTime);
                     if(this.gameObject.GetComponent<NavMeshAgent>()) this.gameObject.GetComponent<NavMeshAgent>().SetDestination(posPlayer);
                 }
                 else if (distancia <= minDistancia && distancia <= maxDistanciaPerseguir) //Distancia para atacar
@@ -88,13 +84,7 @@ public class Spider : Enemigos
                 estoyMuerto = true;
                 GetComponent<Animator>().SetTrigger("morir");
                 sonidoSpiderDie.GetComponent<AudioSource>().Play();
-                //GetComponent<NavMeshAgent>().SetDestination(transform.position);
                 Invoke("EliminarAnimator",0.70f);
-                /*General.AddNumEnemigosEliminados(1);
-                if(General.GetNumEnemigosEliminados() >= General.GetMaxEnemigosEliminados() && SceneManager.GetActiveScene().name == "Game")
-                {
-                    acumulador.GetComponent<UIManager>().llaveReja.SetActive(true);
-                }*/
             }
             else
             {
@@ -111,8 +101,6 @@ public class Spider : Enemigos
         Destroy(this.gameObject.GetComponent<Animator>());
         Destroy(this.gameObject.GetComponent<SphereCollider>());
         Destroy(this.gameObject.GetComponent<EnemigosAI>());
-        /*this.gameObject.GetComponent<Animator>().ResetTrigger("golpear");
-        this.gameObject.GetComponent<Animator>().ResetTrigger("atacar");*/
         Destroy(this.gameObject.GetComponent<NavMeshAgent>());
         Destroy(this.gameObject.GetComponent<Rigidbody>());
     }
