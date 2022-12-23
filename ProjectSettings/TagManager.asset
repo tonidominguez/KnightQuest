@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terreno
+  - Cocktail
+  - HayFork
+  - Flower
+  - Devil
+  - Rogalic
+  - Dino
+  - CamaraInventario
+  - Acumulador
+  - HorseGallop
+  - ArmaDino
+  - ArmaRogalic
+  - PlayerMaterial
+  - ArmaDevil
+  - Salud
+  - Moneda
+  - Monedas
+  - ArmaPlayer
+  - ArmaSnake
+  - Snake
+  - Spider
+  - ParticlesMonedas
+  - ParticlesMoneda
+  - FxTemporaire
+  - Explosion01
+  - Explosion02
+  - Explosion03
+  - Puff
+  - HitRock01
+  - HitRock02
+  - Niebla
+  - Objeto_02
+  - Objeto_01
+  - SonidoCoin
+  - SonidoCoins
+  - SonidoPlayerHit
+  - SonidoPlayerDamage
+  - SonidoPlayerJump
+  - SonidoSpiderWalk
+  - SonidoPlayerHealth
+  - SonidoSpiderDie
+  - SonidoDevilDie
+  - SonidoRogalicDie
+  - SonidoSnakeDie
+  - SonidoDinoDie
+  - ReliquiaEscudo
+  - ReliquiaFrasco
+  - ReliquiaCofre
+  - ReliquiaHacha
+  - SonidoReliquia
+  - SonidoPlayerDie
+  - SliderSalud
+  - TextoMonedas
+  - Caldero
+  - PanelFaltanReliquias
+  - PanelTodasReliquias
+  - Blizzard
+  - SonidoVictoriaFinal
+  - PanelPausa
+  - PanelGameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terreno
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

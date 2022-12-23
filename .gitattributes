@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.scene filter=lfs diff=lfs merge=lfs -text
+sharedasses2.* filter=lfs diff=lfs merge=lfs -text
+sharedasses2.*.* filter=lfs diff=lfs merge=lfs -text
+sharedassets2.*.* filter=lfs diff=lfs merge=lfs -text

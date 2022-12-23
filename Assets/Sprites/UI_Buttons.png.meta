@@ -1,0 +1,5940 @@
+fileFormatVersion: 2
+guid: 25a480ae18145407ba83c634aef2fed3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -349501769233167598
+    second: UI_Buttons_0
+  - first:
+      213: 1002314541381079101
+    second: UI_Buttons_1
+  - first:
+      213: -3302942199910501919
+    second: UI_Buttons_2
+  - first:
+      213: -8388676363910138018
+    second: UI_Buttons_3
+  - first:
+      213: -5942230873519039519
+    second: UI_Buttons_4
+  - first:
+      213: -9075372253054032488
+    second: UI_Buttons_5
+  - first:
+      213: -3752086400668895170
+    second: UI_Buttons_6
+  - first:
+      213: 5443615423995280755
+    second: UI_Buttons_7
+  - first:
+      213: -7257974199788926244
+    second: UI_Buttons_8
+  - first:
+      213: 296944135989094092
+    second: UI_Buttons_9
+  - first:
+      213: -6730508959240759184
+    second: UI_Buttons_10
+  - first:
+      213: -5501386671893047495
+    second: UI_Buttons_11
+  - first:
+      213: 5802799835174370958
+    second: UI_Buttons_12
+  - first:
+      213: 9160267285729102424
+    second: UI_Buttons_13
+  - first:
+      213: -6187156380514981872
+    second: UI_Buttons_14
+  - first:
+      213: 3142690178943411350
+    second: UI_Buttons_15
+  - first:
+      213: 8169849489479417636
+    second: UI_Buttons_16
+  - first:
+      213: 5213170071327885048
+    second: UI_Buttons_17
+  - first:
+      213: 5811623420353488977
+    second: UI_Buttons_18
+  - first:
+      213: -3516707813035802125
+    second: UI_Buttons_19
+  - first:
+      213: -1939118953878457694
+    second: UI_Buttons_20
+  - first:
+      213: 5987559647945176134
+    second: UI_Buttons_21
+  - first:
+      213: -6674059747960205598
+    second: UI_Buttons_22
+  - first:
+      213: 6029490960356256969
+    second: UI_Buttons_23
+  - first:
+      213: 37834372265971893
+    second: UI_Buttons_24
+  - first:
+      213: -4793978554613580757
+    second: UI_Buttons_25
+  - first:
+      213: -4367795049968701439
+    second: UI_Buttons_26
+  - first:
+      213: -416702877962891998
+    second: UI_Buttons_27
+  - first:
+      213: -1901592130317097164
+    second: UI_Buttons_28
+  - first:
+      213: -7603099807960986986
+    second: UI_Buttons_29
+  - first:
+      213: -6060881456333826050
+    second: UI_Buttons_30
+  - first:
+      213: 8243139709754048065
+    second: UI_Buttons_31
+  - first:
+      213: 3375412266171404303
+    second: UI_Buttons_32
+  - first:
+      213: 9101253921482926551
+    second: UI_Buttons_33
+  - first:
+      213: -4389802297396944602
+    second: UI_Buttons_34
+  - first:
+      213: -29870762031835003
+    second: UI_Buttons_35
+  - first:
+      213: -3287239579664231656
+    second: UI_Buttons_36
+  - first:
+      213: 5564345603053727375
+    second: UI_Buttons_37
+  - first:
+      213: -7425653772768166008
+    second: UI_Buttons_38
+  - first:
+      213: 5490665913258205530
+    second: UI_Buttons_39
+  - first:
+      213: -4745523842113685007
+    second: UI_Buttons_40
+  - first:
+      213: -4476365673438438008
+    second: UI_Buttons_41
+  - first:
+      213: -7442468070152875353
+    second: UI_Buttons_42
+  - first:
+      213: 2408056092166032224
+    second: UI_Buttons_43
+  - first:
+      213: -3255805412120286
+    second: UI_Buttons_44
+  - first:
+      213: 5978220780559419393
+    second: UI_Buttons_45
+  - first:
+      213: 2341433135316301425
+    second: UI_Buttons_46
+  - first:
+      213: -6018848781966410445
+    second: UI_Buttons_47
+  - first:
+      213: -7539574073701714695
+    second: UI_Buttons_48
+  - first:
+      213: 3180566182653460756
+    second: UI_Buttons_49
+  - first:
+      213: 305470699802350433
+    second: UI_Buttons_50
+  - first:
+      213: 457867367999619607
+    second: UI_Buttons_51
+  - first:
+      213: -5905263109447276405
+    second: UI_Buttons_52
+  - first:
+      213: -4594867323670706739
+    second: UI_Buttons_53
+  - first:
+      213: -2555698049277339796
+    second: UI_Buttons_54
+  - first:
+      213: -2145022581528060149
+    second: UI_Buttons_55
+  - first:
+      213: -5150428835949363415
+    second: UI_Buttons_56
+  - first:
+      213: 3257955667730806343
+    second: UI_Buttons_57
+  - first:
+      213: -5839020779400018059
+    second: UI_Buttons_58
+  - first:
+      213: -3446102006047790723
+    second: UI_Buttons_59
+  - first:
+      213: 8512094513564406939
+    second: UI_Buttons_60
+  - first:
+      213: 8515203937397358870
+    second: UI_Buttons_61
+  - first:
+      213: -99515032462248711
+    second: UI_Buttons_62
+  - first:
+      213: 4450125028210234773
+    second: UI_Buttons_63
+  - first:
+      213: 1247906476234503059
+    second: UI_Buttons_64
+  - first:
+      213: -2848765443352511975
+    second: UI_Buttons_65
+  - first:
+      213: -6212424790887787722
+    second: UI_Buttons_66
+  - first:
+      213: 886287835570086934
+    second: UI_Buttons_67
+  - first:
+      213: -6595592112032881148
+    second: UI_Buttons_68
+  - first:
+      213: -420916795983340367
+    second: UI_Buttons_69
+  - first:
+      213: 4924372937739660142
+    second: UI_Buttons_70
+  - first:
+      213: 5900350099056299825
+    second: UI_Buttons_71
+  - first:
+      213: 5647753572187790679
+    second: UI_Buttons_72
+  - first:
+      213: -7423884338390823845
+    second: UI_Buttons_73
+  - first:
+      213: 7226954442647370852
+    second: UI_Buttons_74
+  - first:
+      213: -1082755427091922644
+    second: UI_Buttons_75
+  - first:
+      213: 1240959993871389034
+    second: UI_Buttons_76
+  - first:
+      213: 3593266340027085049
+    second: UI_Buttons_77
+  - first:
+      213: -7689724907879104011
+    second: UI_Buttons_78
+  - first:
+      213: 8244182716600353336
+    second: UI_Buttons_79
+  - first:
+      213: 8276909781343311209
+    second: UI_Buttons_80
+  - first:
+      213: -4505702721326574934
+    second: UI_Buttons_81
+  - first:
+      213: 7602589063957860676
+    second: UI_Buttons_82
+  - first:
+      213: -3333834265765189549
+    second: UI_Buttons_83
+  - first:
+      213: 6098339364805382729
+    second: UI_Buttons_84
+  - first:
+      213: 5600586838493597515
+    second: UI_Buttons_85
+  - first:
+      213: -6042145013245208169
+    second: UI_Buttons_86
+  - first:
+      213: -1735315778587622367
+    second: UI_Buttons_87
+  - first:
+      213: 844790504491023573
+    second: UI_Buttons_88
+  - first:
+      213: 4313772842054718242
+    second: UI_Buttons_89
+  - first:
+      213: -103696430889324359
+    second: UI_Buttons_90
+  - first:
+      213: -6820373289812446372
+    second: UI_Buttons_91
+  - first:
+      213: 6236424356012379946
+    second: UI_Buttons_92
+  - first:
+      213: 1763774651927430782
+    second: UI_Buttons_93
+  - first:
+      213: 8271652101760827682
+    second: UI_Buttons_94
+  - first:
+      213: 8435224382982668962
+    second: UI_Buttons_95
+  - first:
+      213: -5590782595752646718
+    second: UI_Buttons_96
+  - first:
+      213: -6758198102023021878
+    second: UI_Buttons_97
+  - first:
+      213: -1770250534933120883
+    second: UI_Buttons_98
+  - first:
+      213: 3089935686421802595
+    second: UI_Buttons_99
+  - first:
+      213: 334511894018930531
+    second: UI_Buttons_100
+  - first:
+      213: -3879968558179983343
+    second: UI_Buttons_101
+  - first:
+      213: 1585629519497754378
+    second: UI_Buttons_102
+  - first:
+      213: -1545542069481145534
+    second: UI_Buttons_103
+  - first:
+      213: 3499769981364126991
+    second: UI_Buttons_104
+  - first:
+      213: 7293298674674408030
+    second: UI_Buttons_105
+  - first:
+      213: 1750749051857433298
+    second: UI_Buttons_106
+  - first:
+      213: -6696792047409470114
+    second: UI_Buttons_107
+  - first:
+      213: 2141392296631854995
+    second: UI_Buttons_108
+  - first:
+      213: 324716636232380497
+    second: UI_Buttons_109
+  - first:
+      213: 4285454449172826183
+    second: UI_Buttons_110
+  - first:
+      213: -2519965965461665823
+    second: UI_Buttons_111
+  - first:
+      213: 6299447582003445971
+    second: UI_Buttons_112
+  - first:
+      213: 7067977261025160979
+    second: UI_Buttons_113
+  - first:
+      213: 2086856052381157029
+    second: UI_Buttons_114
+  - first:
+      213: -7247218762157575126
+    second: UI_Buttons_115
+  - first:
+      213: -7746830686986312862
+    second: UI_Buttons_116
+  - first:
+      213: -132411295438156701
+    second: UI_Buttons_117
+  - first:
+      213: -6296335648691719921
+    second: UI_Buttons_118
+  - first:
+      213: -4212373510463940528
+    second: UI_Buttons_119
+  - first:
+      213: -2472134486070624450
+    second: UI_Buttons_120
+  - first:
+      213: 6220545430729164526
+    second: UI_Buttons_121
+  - first:
+      213: -4058658062170591427
+    second: UI_Buttons_122
+  - first:
+      213: -4794567964598371876
+    second: UI_Buttons_123
+  - first:
+      213: -54231637156276404
+    second: UI_Buttons_124
+  - first:
+      213: -1093981541800135239
+    second: UI_Buttons_125
+  - first:
+      213: -1672444747696601058
+    second: UI_Buttons_126
+  - first:
+      213: 4338107964170516344
+    second: UI_Buttons_127
+  - first:
+      213: -3250171694001346439
+    second: UI_Buttons_128
+  - first:
+      213: -2660333375279210
+    second: UI_Buttons_129
+  - first:
+      213: -694003258188327651
+    second: UI_Buttons_130
+  - first:
+      213: -5990391810556687206
+    second: UI_Buttons_131
+  - first:
+      213: -3207425621508636129
+    second: UI_Buttons_132
+  - first:
+      213: -3186951023118840745
+    second: UI_Buttons_133
+  - first:
+      213: -7232974252708538585
+    second: UI_Buttons_134
+  - first:
+      213: -4499085541222887650
+    second: UI_Buttons_135
+  - first:
+      213: 7745414527251684241
+    second: UI_Buttons_136
+  - first:
+      213: 631654685921051361
+    second: UI_Buttons_137
+  - first:
+      213: 5603861950241917611
+    second: UI_Buttons_138
+  - first:
+      213: 5731079665277122372
+    second: UI_Buttons_139
+  - first:
+      213: -6320552224088739399
+    second: UI_Buttons_140
+  - first:
+      213: -2792160630326087612
+    second: UI_Buttons_141
+  - first:
+      213: -7213223979255381979
+    second: UI_Buttons_142
+  - first:
+      213: 3856347118498994939
+    second: UI_Buttons_143
+  - first:
+      213: -4898244178687187073
+    second: UI_Buttons_144
+  - first:
+      213: -7300221065543887466
+    second: UI_Buttons_145
+  - first:
+      213: 1339220923288419564
+    second: UI_Buttons_146
+  - first:
+      213: -6947241358145740485
+    second: UI_Buttons_147
+  - first:
+      213: -2779814121201385211
+    second: UI_Buttons_148
+  - first:
+      213: -9077774733062077244
+    second: UI_Buttons_149
+  - first:
+      213: 3263622700650147219
+    second: UI_Buttons_150
+  - first:
+      213: 7080523271526490813
+    second: UI_Buttons_151
+  - first:
+      213: -1477640421838986537
+    second: UI_Buttons_152
+  - first:
+      213: 3433853917147906231
+    second: UI_Buttons_153
+  - first:
+      213: 2331456361384631834
+    second: UI_Buttons_154
+  - first:
+      213: -6692527194592288624
+    second: UI_Buttons_155
+  - first:
+      213: 30235388086529004
+    second: UI_Buttons_156
+  - first:
+      213: 2042080363075418529
+    second: UI_Buttons_157
+  - first:
+      213: 9115663065116604118
+    second: UI_Buttons_158
+  - first:
+      213: -5706602719269736068
+    second: UI_Buttons_159
+  - first:
+      213: -2119491432260989280
+    second: UI_Buttons_160
+  - first:
+      213: -6538810544495130896
+    second: UI_Buttons_161
+  - first:
+      213: 8117138956992678616
+    second: UI_Buttons_162
+  - first:
+      213: 8056466542464305885
+    second: UI_Buttons_163
+  - first:
+      213: 3378051083595616553
+    second: UI_Buttons_164
+  - first:
+      213: 4045072742328642252
+    second: UI_Buttons_165
+  - first:
+      213: -4815966068726703592
+    second: UI_Buttons_166
+  - first:
+      213: 3258137469127481724
+    second: UI_Buttons_167
+  - first:
+      213: 3461026660400498572
+    second: UI_Buttons_168
+  - first:
+      213: -130108783221788963
+    second: UI_Buttons_169
+  - first:
+      213: -5467878500143118759
+    second: UI_Buttons_170
+  - first:
+      213: 7241675785630375950
+    second: UI_Buttons_171
+  - first:
+      213: 6642474799785861984
+    second: UI_Buttons_172
+  - first:
+      213: 1068476099092413553
+    second: UI_Buttons_173
+  - first:
+      213: -1483834385257425103
+    second: UI_Buttons_174
+  - first:
+      213: 1726082314158311095
+    second: UI_Buttons_175
+  - first:
+      213: 70551040898681332
+    second: UI_Buttons_176
+  - first:
+      213: -3857549891296578852
+    second: UI_Buttons_177
+  - first:
+      213: -7993567293455072861
+    second: UI_Buttons_178
+  - first:
+      213: 4455069179991829597
+    second: UI_Buttons_179
+  - first:
+      213: -6669183818158996545
+    second: UI_Buttons_180
+  - first:
+      213: 8551865288637842807
+    second: UI_Buttons_181
+  - first:
+      213: 5831699450289594408
+    second: UI_Buttons_182
+  - first:
+      213: 1390038848402627786
+    second: UI_Buttons_183
+  - first:
+      213: -398754788473158435
+    second: UI_Buttons_184
+  - first:
+      213: -7176010104421545499
+    second: UI_Buttons_185
+  - first:
+      213: 8920016236951769109
+    second: UI_Buttons_186
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4820
+        width: 366
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8c7c1ef1562bf0800000000000000
+      internalID: -349501769233167598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4820
+        width: 366
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305a30d3cfe8ed00800000000000000
+      internalID: 1002314541381079101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4820
+        width: 368
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1ffa4a1979922d0800000000000000
+      internalID: -3302942199910501919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4820
+        width: 364
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bb69ca4f659b80800000000000000
+      internalID: -8388676363910138018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4617
+        width: 368
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebd98af084f88da0800000000000000
+      internalID: -5942230873519039519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4617
+        width: 366
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895274ce40dcd0280800000000000000
+      internalID: -9075372253054032488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4617
+        width: 368
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387e894c49edebc0800000000000000
+      internalID: -3752086400668895170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4617
+        width: 369
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d7319f26b9b8b40800000000000000
+      internalID: 5443615423995280755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4414
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda81a07bee764b90800000000000000
+      internalID: -7257974199788926244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 4414
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6e3cf4e15fe1400800000000000000
+      internalID: 296944135989094092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 4414
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ded6e2cd6892a0800000000000000
+      internalID: -6730508959240759184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4414
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9371fb138f527a3b0800000000000000
+      internalID: -5501386671893047495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 4414
+        width: 180
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e734e94bfa78050800000000000000
+      internalID: 5802799835174370958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4195
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac38d209ecf1f70800000000000000
+      internalID: 9160267285729102424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018ec998d0ec22aa0800000000000000
+      internalID: -6187156380514981872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e70b21141d9b20800000000000000
+      internalID: 3142690178943411350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fb3d033d2216170800000000000000
+      internalID: 8169849489479417636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6423f2f86e85840800000000000000
+      internalID: 5213170071327885048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a282a5b807a050800000000000000
+      internalID: 5811623420353488977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 4195
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1092950e4223fc0800000000000000
+      internalID: -3516707813035802125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 4195
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f8d8d59dd615e0800000000000000
+      internalID: -1939118953878457694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3982
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6443c3fb6c5181350800000000000000
+      internalID: 5987559647945176134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3982
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4919150af063a0800000000000000
+      internalID: -6674059747960205598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3982
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca674351e0da350800000000000000
+      internalID: 6029490960356256969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3982
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0963f392a668000800000000000000
+      internalID: 37834372265971893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_25
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3992
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cba6777ed587db0800000000000000
+      internalID: -4793978554613580757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_26
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3992
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f7ea2b897263c0800000000000000
+      internalID: -4367795049968701439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_27
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3992
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d8326b0f2973af0800000000000000
+      internalID: -416702877962891998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3992
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43765c458003c95e0800000000000000
+      internalID: -1901592130317097164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a05a2f10d5c7690800000000000000
+      internalID: -7603099807960986986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3780
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef758796d6c63eba0800000000000000
+      internalID: -6060881456333826050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3780
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7ec954e3856270800000000000000
+      internalID: 8243139709754048065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3780
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0094a7829fd7de20800000000000000
+      internalID: 3375412266171404303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_33
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3785
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ee9898362e4e70800000000000000
+      internalID: 9101253921482926551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_34
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3785
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212675911a4413c0800000000000000
+      internalID: -4389802297396944602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_35
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3785
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5881cef33b0e59ff0800000000000000
+      internalID: -29870762031835003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_36
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3785
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8135282d4016162d0800000000000000
+      internalID: -3287239579664231656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3585
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e268548d6883d40800000000000000
+      internalID: 5564345603053727375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3585
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3d198c37c2f890800000000000000
+      internalID: -7425653772768166008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_39
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3585
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51e91cae83c23c40800000000000000
+      internalID: 5490665913258205530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3585
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9baad5533842eb0800000000000000
+      internalID: -4745523842113685007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_41
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3587
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d13f50321c0e1c0800000000000000
+      internalID: -4476365673438438008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_42
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3587
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2d95ad8ba07b890800000000000000
+      internalID: -7442468070152875353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_43
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3587
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b85c4e1422b6120800000000000000
+      internalID: 2408056092166032224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_44
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3587
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e3fabcde64fff0800000000000000
+      internalID: -3255805412120286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3389
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084a1e3028e6f250800000000000000
+      internalID: 5978220780559419393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3389
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767bd7f7017e7020800000000000000
+      internalID: 2341433135316301425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3389
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d791a0ce0c87ca0800000000000000
+      internalID: -6018848781966410445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_48
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3389
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b34b835d0e5790800000000000000
+      internalID: -7539574073701714695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_49
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3392
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110ead7714a32c20800000000000000
+      internalID: 3180566182653460756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_50
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3392
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635207abff3d3400800000000000000
+      internalID: 305470699802350433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_51
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3392
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7124cdff1fbaa5600800000000000000
+      internalID: 457867367999619607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_52
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3392
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882d284d7a4c0ea0800000000000000
+      internalID: -5905263109447276405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3188
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ce868380cb30c0800000000000000
+      internalID: -4594867323670706739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_54
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3188
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675aa33a26588cd0800000000000000
+      internalID: -2555698049277339796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_55
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3188
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f14d0b3595b32e0800000000000000
+      internalID: -2145022581528060149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3188
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3f4803400688b0800000000000000
+      internalID: -5150428835949363415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_57
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3187
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746b01d1b65963d20800000000000000
+      internalID: 3257955667730806343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_58
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3187
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ccbf9981a7fea0800000000000000
+      internalID: -5839020779400018059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_59
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3187
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79a2c5db7cfc20d0800000000000000
+      internalID: -3446102006047790723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_60
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3187
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94de8f6cd8012670800000000000000
+      internalID: 8512094513564406939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2992
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c3969dd41c2670800000000000000
+      internalID: 8515203937397358870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_62
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2992
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4b640fa937e9ef0800000000000000
+      internalID: -99515032462248711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2992
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595db88a22502cd30800000000000000
+      internalID: 4450125028210234773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_64
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2992
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393fdd41454715110800000000000000
+      internalID: 1247906476234503059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_65
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2994
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab0943ce62778d0800000000000000
+      internalID: -2848765443352511975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_66
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2994
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6339d49419809c9a0800000000000000
+      internalID: -6212424790887787722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_67
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2994
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a7e7371abc4c00800000000000000
+      internalID: 886287835570086934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_68
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2994
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40669e64befb774a0800000000000000
+      internalID: -6595592112032881148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2799
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcda67776a982af0800000000000000
+      internalID: -420916795983340367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be48fa813e65440800000000000000
+      internalID: 4924372937739660142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_71
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f01b8572142e150800000000000000
+      internalID: 5900350099056299825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_72
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d523963f9d06e40800000000000000
+      internalID: 5647753572187790679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_73
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c01a4178019f890800000000000000
+      internalID: -7423884338390823845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_74
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c7de986cc4b4460800000000000000
+      internalID: 7226954442647370852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_75
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2799
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214f8dfca749f0f0800000000000000
+      internalID: -1082755427091922644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_76
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2799
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61dc2f1a86c83110800000000000000
+      internalID: 1240959993871389034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2589
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0bea4c2b8ddd130800000000000000
+      internalID: 3593266340027085049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_78
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2589
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1846d20fb984590800000000000000
+      internalID: -7689724907879104011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_79
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2589
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832016e4088396270800000000000000
+      internalID: 8244182716600353336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_80
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2589
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659cead79d7dd270800000000000000
+      internalID: 8276909781343311209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2593
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa291d74f378871c0800000000000000
+      internalID: -4505702721326574934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_82
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2593
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415a723972d18960800000000000000
+      internalID: 7602589063957860676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_83
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2593
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586a011667dbb1d0800000000000000
+      internalID: -3333834265765189549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_84
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2593
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94291078757a1a450800000000000000
+      internalID: 6098339364805382729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2396
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f83227e0849bd40800000000000000
+      internalID: 5600586838493597515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_86
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2396
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7991f148f1df52ca0800000000000000
+      internalID: -6042145013245208169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2396
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12487245e7beae7e0800000000000000
+      internalID: -1735315778587622367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_88
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2396
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7fc9ec7c49bb00800000000000000
+      internalID: 844790504491023573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_89
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2396
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22316646b899ddb30800000000000000
+      internalID: 4313772842054718242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_90
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2396
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0bd5045a89f8ef0800000000000000
+      internalID: -103696430889324359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_91
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2396
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53ba29f0aa2951a0800000000000000
+      internalID: -6820373289812446372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_92
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2396
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f46b8e8ea3c8650800000000000000
+      internalID: 6236424356012379946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2203
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7609f773bf2a7810800000000000000
+      internalID: 1763774651927430782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221411fe2cfcac270800000000000000
+      internalID: 8271652101760827682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_95
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2456472efef0570800000000000000
+      internalID: 8435224382982668962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_96
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72ab3b9dc8962b0800000000000000
+      internalID: -5590782595752646718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_97
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad237f1ae0632a0800000000000000
+      internalID: -6758198102023021878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_98
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88bdd5848ece67e0800000000000000
+      internalID: -1770250534933120883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_99
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2203
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e69f7b228a1ea20800000000000000
+      internalID: 3089935686421802595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_100
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2203
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36734289bcc64a400800000000000000
+      internalID: 334511894018930531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2005
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1106ffd3725972ac0800000000000000
+      internalID: -3879968558179983343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_102
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07790f95a9410610800000000000000
+      internalID: 1585629519497754378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_103
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b772b2da12d8ae0800000000000000
+      internalID: -1545542069481145534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_104
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05c8c6614ea19030800000000000000
+      internalID: 3499769981364126991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_105
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9bc8c080073560800000000000000
+      internalID: 7293298674674408030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_106
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d270de9cf8eb4810800000000000000
+      internalID: 1750749051857433298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_107
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2005
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556f7f2d173013a0800000000000000
+      internalID: -6696792047409470114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_108
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2005
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ef7db2f0c7bd10800000000000000
+      internalID: 2141392296631854995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1507a4b6f00a18400800000000000000
+      internalID: 324716636232380497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_110
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1800
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7484010cd1ef87b30800000000000000
+      internalID: 4285454449172826183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_111
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1800
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e745964e48470dd0800000000000000
+      internalID: -2519965965461665823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_112
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1800
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0428e23322c6750800000000000000
+      internalID: 6299447582003445971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_113
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1808
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f61f30fdf761260800000000000000
+      internalID: 7067977261025160979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_114
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1808
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a68d83e58006fc10800000000000000
+      internalID: 2086856052381157029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_115
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1808
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a243d08eee4bc6b90800000000000000
+      internalID: -7247218762157575126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_116
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1808
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e51fd88abd7490800000000000000
+      internalID: -7746830686986312862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc82bd0a4992ef0800000000000000
+      internalID: -132411295438156701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_118
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1598
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f911461cee98a0800000000000000
+      internalID: -6296335648691719921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_119
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1598
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058188f3c94aa85c0800000000000000
+      internalID: -4212373510463940528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_120
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1598
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f74c868c631bdd0800000000000000
+      internalID: -2472134486070624450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_121
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1598
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68ac38c11d35650800000000000000
+      internalID: 6220545430729164526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_122
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1598
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3feb830fffbca7c0800000000000000
+      internalID: -4058658062170591427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_123
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1598
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd975a2c6d5467db0800000000000000
+      internalID: -4794567964598371876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_124
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1598
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4756b30d945f3ff0800000000000000
+      internalID: -54231637156276404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b53b2a759561d0f0800000000000000
+      internalID: -1093981541800135239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_126
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1397
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18831bec584ac8e0800000000000000
+      internalID: -1672444747696601058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_127
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1397
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8773da9853e043c30800000000000000
+      internalID: 4338107964170516344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_128
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1397
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9782500801215e2d0800000000000000
+      internalID: -3250171694001346439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_129
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1395
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fae2ed07c86fff0800000000000000
+      internalID: -2660333375279210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_130
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1395
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1598b2b6b76e56f0800000000000000
+      internalID: -694003258188327651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_131
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1395
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c0c52036adddca0800000000000000
+      internalID: -5990391810556687206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_132
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1395
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12cd72146fec73d0800000000000000
+      internalID: -3207425621508636129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0f6efdeca5c3d0800000000000000
+      internalID: -3186951023118840745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_134
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1195
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d2c53d305f9b90800000000000000
+      internalID: -7232974252708538585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_135
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1195
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f405599890091c0800000000000000
+      internalID: -4499085541222887650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_136
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1195
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b9cfeb97d3d7b60800000000000000
+      internalID: 7745414527251684241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_137
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20907179614c800800000000000000
+      internalID: 631654685921051361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_138
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa4f72d0cae4cd40800000000000000
+      internalID: 5603861950241917611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_139
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1195
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447be4c4792e88f40800000000000000
+      internalID: 5731079665277122372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_140
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1195
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b2ea6d33e848a0800000000000000
+      internalID: -6320552224088739399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440359143b04049d0800000000000000
+      internalID: -2792160630326087612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_142
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 996
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204727120b75eb90800000000000000
+      internalID: -7213223979255381979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_143
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 996
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfadbb0c54f748530800000000000000
+      internalID: 3856347118498994939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 996
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a93a1fd0f50cb0800000000000000
+      internalID: -4898244178687187073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_145
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 997
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695de6e7e9760ba90800000000000000
+      internalID: -7300221065543887466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_146
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 997
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7060955ed59210800000000000000
+      internalID: 1339220923288419564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_147
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 997
+        width: 181
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3122d6fac0769f90800000000000000
+      internalID: -6947241358145740485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_148
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 997
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5014d2ce8cd1c69d0800000000000000
+      internalID: -2779814121201385211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c481d4f9f3450280800000000000000
+      internalID: -9077774733062077244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_150
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d27290e87ba4d20800000000000000
+      internalID: 3263622700650147219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_151
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22937b662134260800000000000000
+      internalID: 7080523271526490813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_152
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2678e7ddd5e7be0800000000000000
+      internalID: -1477640421838986537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_153
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04f2eb1ff77af20800000000000000
+      internalID: 3433853917147906231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_154
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed7a5453ffa5020800000000000000
+      internalID: 2331456361384631834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_155
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 802
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906fac99fd5f13a0800000000000000
+      internalID: -6692527194592288624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_156
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 802
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2b8edcea6b6000800000000000000
+      internalID: 30235388086529004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a939e3554de65c10800000000000000
+      internalID: 2042080363075418529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_158
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 592
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67c68c247518e70800000000000000
+      internalID: 9115663065116604118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_159
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 592
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7136abcf031ec0b0800000000000000
+      internalID: -5706602719269736068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_160
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 592
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae899b95cd0692e0800000000000000
+      internalID: -2119491432260989280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_161
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 590
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60ac1347a7145a0800000000000000
+      internalID: -6538810544495130896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_162
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 590
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da880cffded5a070800000000000000
+      internalID: 8117138956992678616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_163
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 590
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8768a2a15ecf60800000000000000
+      internalID: 8056466542464305885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_164
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 590
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92117d6109f31ee20800000000000000
+      internalID: 3378051083595616553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2d193a3cf22830800000000000000
+      internalID: 4045072742328642252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_166
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 387
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ad53760604a2db0800000000000000
+      internalID: -4815966068726703592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_167
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 387
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79dbbc04ca373d20800000000000000
+      internalID: 3258137469127481724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_168
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 387
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87045b0969080030800000000000000
+      internalID: 3461026660400498572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_169
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 397
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde28e140c2c13ef0800000000000000
+      internalID: -130108783221788963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_170
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 397
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95649f369713e14b0800000000000000
+      internalID: -5467878500143118759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_171
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 397
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00eb0d42c99f7460800000000000000
+      internalID: 7241675785630375950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_172
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 397
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06368b613afce2c50800000000000000
+      internalID: 6642474799785861984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf561e95df3de00800000000000000
+      internalID: 1068476099092413553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_174
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 194
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13798310d7c586be0800000000000000
+      internalID: -1483834385257425103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_175
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 194
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b68d7438b644f710800000000000000
+      internalID: 1726082314158311095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_176
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 194
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9cc434cc5aaf000800000000000000
+      internalID: 70551040898681332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_177
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 197
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2bbe1efca377ac0800000000000000
+      internalID: -3857549891296578852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_178
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 197
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a10e69f5e4211190800000000000000
+      internalID: -7993567293455072861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_179
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 197
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2433b0d593dd30800000000000000
+      internalID: 4455069179991829597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_180
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 197
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb389d8f6ac4273a0800000000000000
+      internalID: -6669183818158996545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77580489b245ea670800000000000000
+      internalID: 8551865288637842807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_182
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 376
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8202a5b90cb5ee050800000000000000
+      internalID: 5831699450289594408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_183
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 327
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1807c7f86a4310800000000000000
+      internalID: 1390038848402627786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_184
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 317
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44290f1a6577af0800000000000000
+      internalID: -398754788473158435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_185
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 0
+        width: 374
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9075584d0b96c90800000000000000
+      internalID: -7176010104421545499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Buttons_186
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 0
+        width: 179
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101a3ad1834acb70800000000000000
+      internalID: 8920016236951769109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -910.4725, y: -2318.872}
+      - {x: -930, y: -2335.9585}
+      - {x: -930, y: -2479.9727}
+      - {x: -915.3543, y: -2499.5}
+      - {x: -764.01575, y: -2499.5}
+      - {x: -749.37006, y: -2484.8545}
+      - {x: -749.37006, y: -2333.5176}
+      - {x: -776.22046, y: -2318.872}
+    - - {x: -558.9764, y: -2343.2812}
+      - {x: -568.7402, y: -2318.872}
+      - {x: -734.7244, y: -2318.872}
+      - {x: -742.04724, y: -2321.313}
+      - {x: -742.04724, y: -2499.5}
+      - {x: -576.063, y: -2499.5}
+      - {x: -556.53546, y: -2477.5317}
+      - {x: -556.53546, y: -2379.895}
+    - - {x: -529.68506, y: -2318.872}
+      - {x: -549.2126, y: -2343.2812}
+      - {x: -549.2126, y: -2482.4136}
+      - {x: -529.68506, y: -2499.5}
+      - {x: -373.46457, y: -2499.5}
+      - {x: -363.70078, y: -2492.1772}
+      - {x: -363.70078, y: -2331.0767}
+      - {x: -366.14172, y: -2318.872}
+    - - {x: -334.40945, y: -2318.872}
+      - {x: -356.37796, y: -2321.313}
+      - {x: -356.37796, y: -2482.4136}
+      - {x: -344.17322, y: -2499.5}
+      - {x: -170.86615, y: -2499.5}
+      - {x: -170.86615, y: -2321.313}
+      - {x: -175.74803, y: -2318.872}
+    - - {x: 170.86615, y: -2316.4312}
+      - {x: 170.86615, y: -2497.059}
+      - {x: 178.18898, y: -2499.5}
+      - {x: 344.17322, y: -2499.5}
+      - {x: 356.37796, y: -2489.7363}
+      - {x: 356.37796, y: -2316.4312}
+    - - {x: 383.22836, y: -2316.4312}
+      - {x: 366.14172, y: -2326.1948}
+      - {x: 366.14172, y: -2479.9727}
+      - {x: 371.02362, y: -2499.5}
+      - {x: 537.0079, y: -2499.5}
+      - {x: 549.2126, y: -2479.9727}
+      - {x: 549.2126, y: -2338.3994}
+      - {x: 527.2441, y: -2316.4312}
+    - - {x: 558.9764, y: -2499.5}
+      - {x: 724.96063, y: -2499.5}
+      - {x: 742.04724, y: -2494.6182}
+      - {x: 742.04724, y: -2326.1948}
+      - {x: 739.6063, y: -2316.4312}
+      - {x: 563.8583, y: -2316.4312}
+      - {x: 558.9764, y: -2340.8403}
+    - - {x: 761.5748, y: -2316.4312}
+      - {x: 749.37006, y: -2323.754}
+      - {x: 749.37006, y: -2499.5}
+      - {x: 925.1181, y: -2499.5}
+      - {x: 930, y: -2494.6182}
+      - {x: 930, y: -2316.4312}
+    - - {x: -764.01575, y: -2121.1577}
+      - {x: -915.3543, y: -2121.1577}
+      - {x: -930, y: -2130.9214}
+      - {x: -930, y: -2294.463}
+      - {x: -917.7953, y: -2306.6675}
+      - {x: -771.33856, y: -2306.6675}
+      - {x: -749.37006, y: -2287.1401}
+      - {x: -749.37006, y: -2148.0078}
+    - - {x: -710.31494, y: -2121.1577}
+      - {x: -742.04724, y: -2126.0396}
+      - {x: -742.04724, y: -2282.2583}
+      - {x: -727.40155, y: -2306.6675}
+      - {x: -556.53546, y: -2306.6675}
+      - {x: -556.53546, y: -2121.1577}
+    - - {x: -549.2126, y: -2121.1577}
+      - {x: -549.2126, y: -2306.6675}
+      - {x: -363.70078, y: -2306.6675}
+      - {x: -363.70078, y: -2130.9214}
+      - {x: -368.58267, y: -2121.1577}
+    - - {x: -183.07086, y: -2121.1577}
+      - {x: -336.8504, y: -2121.1577}
+      - {x: -351.49606, y: -2140.685}
+      - {x: -356.37796, y: -2174.858}
+      - {x: -356.37796, y: -2287.1401}
+      - {x: -334.40945, y: -2306.6675}
+      - {x: -195.27559, y: -2306.6675}
+      - {x: -173.30708, y: -2279.8174}
+      - {x: -170.86615, y: -2228.558}
+      - {x: -173.30708, y: -2150.4487}
+    - - {x: 339.29135, y: -2118.7168}
+      - {x: 192.83464, y: -2118.7168}
+      - {x: 170.86615, y: -2143.126}
+      - {x: 170.86615, y: -2260.29}
+      - {x: 173.30708, y: -2282.2583}
+      - {x: 187.95276, y: -2301.7856}
+      - {x: 339.29135, y: -2301.7856}
+      - {x: 356.37796, y: -2299.3447}
+      - {x: 356.37796, y: -2152.8896}
+      - {x: 353.937, y: -2143.126}
+    - - {x: 537.0079, y: -2118.7168}
+      - {x: 366.14172, y: -2118.7168}
+      - {x: 366.14172, y: -2301.7856}
+      - {x: 537.0079, y: -2301.7856}
+      - {x: 549.2126, y: -2284.6992}
+      - {x: 549.2126, y: -2135.8032}
+    - - {x: 558.9764, y: -2118.7168}
+      - {x: 558.9764, y: -2289.581}
+      - {x: 563.8583, y: -2301.7856}
+      - {x: 724.96063, y: -2301.7856}
+      - {x: 742.04724, y: -2287.1401}
+      - {x: 742.04724, y: -2118.7168}
+    - - {x: 749.37006, y: -2118.7168}
+      - {x: 749.37006, y: -2296.9038}
+      - {x: 771.33856, y: -2301.7856}
+      - {x: 927.5591, y: -2301.7856}
+      - {x: 930, y: -2296.9038}
+      - {x: 930, y: -2130.9214}
+      - {x: 922.6772, y: -2118.7168}
+    - - {x: -930, y: -1925.8843}
+      - {x: -930, y: -2104.0713}
+      - {x: -917.7953, y: -2111.394}
+      - {x: -749.37006, y: -2111.394}
+      - {x: -749.37006, y: -1925.8843}
+    - - {x: -742.04724, y: -1925.8843}
+      - {x: -742.04724, y: -2101.6304}
+      - {x: -724.96063, y: -2111.394}
+      - {x: -558.9764, y: -2111.394}
+      - {x: -556.53546, y: -2104.0713}
+      - {x: -556.53546, y: -1925.8843}
+    - - {x: -544.3307, y: -1925.8843}
+      - {x: -549.2126, y: -1928.3252}
+      - {x: -549.2126, y: -2082.103}
+      - {x: -534.56696, y: -2111.394}
+      - {x: -375.90552, y: -2111.394}
+      - {x: -363.70078, y: -2108.9531}
+      - {x: -363.70078, y: -1950.2935}
+      - {x: -368.58267, y: -1925.8843}
+    - - {x: -336.8504, y: -1925.8843}
+      - {x: -356.37796, y: -1940.5298}
+      - {x: -356.37796, y: -2091.8667}
+      - {x: -339.29135, y: -2111.394}
+      - {x: -187.95276, y: -2111.394}
+      - {x: -173.30708, y: -2099.1895}
+      - {x: -173.30708, y: -1955.1753}
+      - {x: -175.74803, y: -1925.8843}
+    - - {x: 200.15749, y: -1916.1206}
+      - {x: 170.86615, y: -1918.5615}
+      - {x: 170.86615, y: -2069.8984}
+      - {x: 183.07086, y: -2101.6304}
+      - {x: 336.8504, y: -2101.6304}
+      - {x: 356.37796, y: -2079.662}
+      - {x: 356.37796, y: -1938.0889}
+      - {x: 339.29135, y: -1916.1206}
+    - - {x: 366.14172, y: -1916.1206}
+      - {x: 366.14172, y: -2096.7485}
+      - {x: 390.55118, y: -2101.6304}
+      - {x: 544.3307, y: -2101.6304}
+      - {x: 549.2126, y: -2091.8667}
+      - {x: 549.2126, y: -1933.207}
+      - {x: 529.68506, y: -1916.1206}
+    - - {x: 715.19684, y: -1916.1206}
+      - {x: 561.4173, y: -1916.1206}
+      - {x: 558.9764, y: -1930.7661}
+      - {x: 558.9764, y: -2096.7485}
+      - {x: 571.1811, y: -2101.6304}
+      - {x: 724.96063, y: -2101.6304}
+      - {x: 742.04724, y: -2082.103}
+      - {x: 742.04724, y: -1960.0571}
+      - {x: 739.6063, y: -1933.207}
+    - - {x: 781.10236, y: -1916.1206}
+      - {x: 749.37006, y: -1921.0024}
+      - {x: 749.37006, y: -2101.6304}
+      - {x: 930, y: -2101.6304}
+      - {x: 930, y: -1916.1206}
+    - - {x: 170.86615, y: -1725.729}
+      - {x: 170.86615, y: -1911.2388}
+      - {x: 356.37796, y: -1911.2388}
+      - {x: 356.37796, y: -1725.729}
+    - - {x: 368.58267, y: -1725.729}
+      - {x: 366.14172, y: -1740.3745}
+      - {x: 366.14172, y: -1911.2388}
+      - {x: 539.44885, y: -1911.2388}
+      - {x: 549.2126, y: -1908.7979}
+      - {x: 549.2126, y: -1740.3745}
+      - {x: 532.126, y: -1725.729}
+    - - {x: 558.9764, y: -1725.729}
+      - {x: 558.9764, y: -1889.2705}
+      - {x: 563.8583, y: -1911.2388}
+      - {x: 742.04724, y: -1911.2388}
+      - {x: 742.04724, y: -1728.1699}
+      - {x: 724.96063, y: -1725.729}
+    - - {x: 764.01575, y: -1725.729}
+      - {x: 749.37006, y: -1733.0518}
+      - {x: 749.37006, y: -1886.8296}
+      - {x: 751.81104, y: -1911.2388}
+      - {x: 922.6772, y: -1911.2388}
+      - {x: 930, y: -1906.3569}
+      - {x: 930, y: -1735.4927}
+      - {x: 927.5591, y: -1725.729}
+    - - {x: -930, y: -1720.8472}
+      - {x: -930, y: -1899.0342}
+      - {x: -917.7953, y: -1906.3569}
+      - {x: -766.4567, y: -1906.3569}
+      - {x: -749.37006, y: -1886.8296}
+      - {x: -749.37006, y: -1720.8472}
+    - - {x: -739.6063, y: -1720.8472}
+      - {x: -742.04724, y: -1723.2881}
+      - {x: -742.04724, y: -1906.3569}
+      - {x: -556.53546, y: -1906.3569}
+      - {x: -556.53546, y: -1723.2881}
+      - {x: -568.7402, y: -1720.8472}
+    - - {x: -544.3307, y: -1720.8472}
+      - {x: -549.2126, y: -1737.9336}
+      - {x: -549.2126, y: -1906.3569}
+      - {x: -383.22836, y: -1906.3569}
+      - {x: -363.70078, y: -1903.916}
+      - {x: -363.70078, y: -1742.8154}
+      - {x: -380.7874, y: -1720.8472}
+    - - {x: -356.37796, y: -1720.8472}
+      - {x: -356.37796, y: -1874.625}
+      - {x: -349.0551, y: -1906.3569}
+      - {x: -178.18898, y: -1906.3569}
+      - {x: -173.30708, y: -1889.2705}
+      - {x: -173.30708, y: -1720.8472}
+    - - {x: -764.01575, y: -1513.3691}
+      - {x: -930, y: -1513.3691}
+      - {x: -930, y: -1674.4697}
+      - {x: -917.7953, y: -1698.8789}
+      - {x: -771.33856, y: -1698.8789}
+      - {x: -751.81104, y: -1686.6743}
+      - {x: -749.37006, y: -1674.4697}
+      - {x: -749.37006, y: -1540.2192}
+    - - {x: -732.28345, y: -1513.3691}
+      - {x: -742.04724, y: -1520.6919}
+      - {x: -742.04724, y: -1698.8789}
+      - {x: -556.53546, y: -1698.8789}
+      - {x: -556.53546, y: -1525.5737}
+      - {x: -563.8583, y: -1513.3691}
+    - - {x: -534.56696, y: -1513.3691}
+      - {x: -549.2126, y: -1535.3374}
+      - {x: -549.2126, y: -1667.147}
+      - {x: -541.8898, y: -1698.8789}
+      - {x: -363.70078, y: -1698.8789}
+      - {x: -363.70078, y: -1515.81}
+      - {x: -368.58267, y: -1513.3691}
+    - - {x: -356.37796, y: -1513.3691}
+      - {x: -356.37796, y: -1686.6743}
+      - {x: -329.52756, y: -1698.8789}
+      - {x: -200.15749, y: -1698.8789}
+      - {x: -170.86615, y: -1689.1152}
+      - {x: -170.86615, y: -1518.251}
+      - {x: -178.18898, y: -1513.3691}
+    - - {x: 356.37796, y: -1513.3691}
+      - {x: 178.18898, y: -1513.3691}
+      - {x: 170.86615, y: -1528.0146}
+      - {x: 170.86615, y: -1679.3516}
+      - {x: 183.07086, y: -1698.8789}
+      - {x: 329.52756, y: -1698.8789}
+      - {x: 349.0551, y: -1679.3516}
+      - {x: 356.37796, y: -1667.147}
+    - - {x: 388.11023, y: -1513.3691}
+      - {x: 366.14172, y: -1532.8965}
+      - {x: 366.14172, y: -1684.2334}
+      - {x: 375.90552, y: -1698.8789}
+      - {x: 549.2126, y: -1698.8789}
+      - {x: 549.2126, y: -1537.7783}
+      - {x: 544.3307, y: -1513.3691}
+    - - {x: 727.40155, y: -1513.3691}
+      - {x: 558.9764, y: -1513.3691}
+      - {x: 558.9764, y: -1698.8789}
+      - {x: 734.7244, y: -1698.8789}
+      - {x: 737.16534, y: -1693.9971}
+      - {x: 742.04724, y: -1674.4697}
+      - {x: 742.04724, y: -1535.3374}
+    - - {x: 759.13385, y: -1513.3691}
+      - {x: 749.37006, y: -1520.6919}
+      - {x: 749.37006, y: -1691.5562}
+      - {x: 751.81104, y: -1698.8789}
+      - {x: 930, y: -1698.8789}
+      - {x: 930, y: -1515.81}
+      - {x: 920.2362, y: -1513.3691}
+    - - {x: -927.5591, y: -1318.0957}
+      - {x: -930, y: -1325.4185}
+      - {x: -930, y: -1488.96}
+      - {x: -925.1181, y: -1503.6055}
+      - {x: -756.69293, y: -1503.6055}
+      - {x: -751.81104, y: -1476.7554}
+      - {x: -749.37006, y: -1464.5508}
+      - {x: -749.37006, y: -1318.0957}
+    - - {x: -737.16534, y: -1318.0957}
+      - {x: -742.04724, y: -1337.623}
+      - {x: -742.04724, y: -1488.96}
+      - {x: -729.8425, y: -1503.6055}
+      - {x: -556.53546, y: -1503.6055}
+      - {x: -556.53546, y: -1318.0957}
+    - - {x: -544.3307, y: -1318.0957}
+      - {x: -549.2126, y: -1335.1821}
+      - {x: -549.2126, y: -1501.1646}
+      - {x: -534.56696, y: -1503.6055}
+      - {x: -371.02362, y: -1503.6055}
+      - {x: -363.70078, y: -1496.2827}
+      - {x: -363.70078, y: -1322.9775}
+      - {x: -385.66928, y: -1318.0957}
+    - - {x: -356.37796, y: -1318.0957}
+      - {x: -356.37796, y: -1484.0781}
+      - {x: -334.40945, y: -1503.6055}
+      - {x: -195.27559, y: -1503.6055}
+      - {x: -170.86615, y: -1498.7236}
+      - {x: -170.86615, y: -1318.0957}
+    - - {x: 170.86615, y: -1315.6548}
+      - {x: 170.86615, y: -1496.2827}
+      - {x: 173.30708, y: -1501.1646}
+      - {x: 356.37796, y: -1501.1646}
+      - {x: 356.37796, y: -1318.0957}
+      - {x: 336.8504, y: -1315.6548}
+    - - {x: 366.14172, y: -1315.6548}
+      - {x: 366.14172, y: -1498.7236}
+      - {x: 388.11023, y: -1501.1646}
+      - {x: 537.0079, y: -1501.1646}
+      - {x: 549.2126, y: -1481.6372}
+      - {x: 549.2126, y: -1315.6548}
+    - - {x: 717.6378, y: -1315.6548}
+      - {x: 578.50397, y: -1315.6548}
+      - {x: 558.9764, y: -1325.4185}
+      - {x: 558.9764, y: -1486.519}
+      - {x: 561.4173, y: -1501.1646}
+      - {x: 720.07874, y: -1501.1646}
+      - {x: 742.04724, y: -1481.6372}
+      - {x: 742.04724, y: -1357.1504}
+      - {x: 739.6063, y: -1340.064}
+    - - {x: 766.4567, y: -1315.6548}
+      - {x: 749.37006, y: -1337.623}
+      - {x: 749.37006, y: -1435.2598}
+      - {x: 751.81104, y: -1481.6372}
+      - {x: 771.33856, y: -1501.1646}
+      - {x: 930, y: -1501.1646}
+      - {x: 930, y: -1322.9775}
+      - {x: 920.2362, y: -1315.6548}
+    - - {x: 180.62993, y: -1120.3813}
+      - {x: 170.86615, y: -1135.0269}
+      - {x: 170.86615, y: -1301.0093}
+      - {x: 173.30708, y: -1305.8911}
+      - {x: 341.7323, y: -1305.8911}
+      - {x: 356.37796, y: -1301.0093}
+      - {x: 356.37796, y: -1135.0269}
+      - {x: 346.61417, y: -1120.3813}
+    - - {x: 383.22836, y: -1120.3813}
+      - {x: 366.14172, y: -1132.5859}
+      - {x: 366.14172, y: -1286.3638}
+      - {x: 368.58267, y: -1305.8911}
+      - {x: 527.2441, y: -1305.8911}
+      - {x: 549.2126, y: -1281.4819}
+      - {x: 549.2126, y: -1139.9087}
+      - {x: 524.80316, y: -1120.3813}
+    - - {x: 558.9764, y: -1286.3638}
+      - {x: 568.7402, y: -1305.8911}
+      - {x: 722.5197, y: -1305.8911}
+      - {x: 742.04724, y: -1301.0093}
+      - {x: 742.04724, y: -1120.3813}
+      - {x: 563.8583, y: -1120.3813}
+      - {x: 558.9764, y: -1144.7905}
+    - - {x: 768.89764, y: -1120.3813}
+      - {x: 749.37006, y: -1144.7905}
+      - {x: 749.37006, y: -1305.8911}
+      - {x: 930, y: -1305.8911}
+      - {x: 930, y: -1132.5859}
+      - {x: 915.3543, y: -1120.3813}
+    - - {x: -915.3543, y: -1120.3813}
+      - {x: -930, y: -1122.8223}
+      - {x: -930, y: -1303.4502}
+      - {x: -766.4567, y: -1303.4502}
+      - {x: -749.37006, y: -1298.5684}
+      - {x: -749.37006, y: -1125.2632}
+      - {x: -754.25195, y: -1120.3813}
+    - - {x: -717.6378, y: -1120.3813}
+      - {x: -742.04724, y: -1142.3496}
+      - {x: -742.04724, y: -1286.3638}
+      - {x: -724.96063, y: -1303.4502}
+      - {x: -578.50397, y: -1303.4502}
+      - {x: -556.53546, y: -1279.041}
+      - {x: -556.53546, y: -1144.7905}
+      - {x: -561.4173, y: -1120.3813}
+    - - {x: -537.0079, y: -1120.3813}
+      - {x: -549.2126, y: -1144.7905}
+      - {x: -549.2126, y: -1276.6001}
+      - {x: -546.77167, y: -1286.3638}
+      - {x: -537.0079, y: -1303.4502}
+      - {x: -388.11023, y: -1303.4502}
+      - {x: -363.70078, y: -1301.0093}
+      - {x: -363.70078, y: -1144.7905}
+      - {x: -373.46457, y: -1120.3813}
+    - - {x: -341.7323, y: -1120.3813}
+      - {x: -356.37796, y: -1122.8223}
+      - {x: -356.37796, y: -1271.7183}
+      - {x: -344.17322, y: -1303.4502}
+      - {x: -175.74803, y: -1303.4502}
+      - {x: -170.86615, y: -1286.3638}
+      - {x: -170.86615, y: -1137.4678}
+      - {x: -185.51181, y: -1120.3813}
+    - - {x: 170.86615, y: -920.2261}
+      - {x: 170.86615, y: -1064.2402}
+      - {x: 183.07086, y: -1105.7358}
+      - {x: 341.7323, y: -1105.7358}
+      - {x: 356.37796, y: -1095.9722}
+      - {x: 356.37796, y: -934.8716}
+      - {x: 349.0551, y: -920.2261}
+    - - {x: 380.7874, y: -920.2261}
+      - {x: 366.14172, y: -937.3125}
+      - {x: 366.14172, y: -1064.2402}
+      - {x: 371.02362, y: -1105.7358}
+      - {x: 532.126, y: -1105.7358}
+      - {x: 549.2126, y: -1093.5312}
+      - {x: 549.2126, y: -937.3125}
+      - {x: 532.126, y: -920.2261}
+    - - {x: 729.8425, y: -920.2261}
+      - {x: 571.1811, y: -920.2261}
+      - {x: 558.9764, y: -929.98975}
+      - {x: 558.9764, y: -1081.3267}
+      - {x: 563.8583, y: -1105.7358}
+      - {x: 715.19684, y: -1105.7358}
+      - {x: 739.6063, y: -1088.6494}
+      - {x: 742.04724, y: -1049.5947}
+      - {x: 742.04724, y: -942.19434}
+    - - {x: 771.33856, y: -920.2261}
+      - {x: 749.37006, y: -942.19434}
+      - {x: 749.37006, y: -1105.7358}
+      - {x: 930, y: -1105.7358}
+      - {x: 930, y: -929.98975}
+      - {x: 927.5591, y: -920.2261}
+    - - {x: -905.5906, y: -917.78516}
+      - {x: -930, y: -920.2261}
+      - {x: -930, y: -1095.9722}
+      - {x: -920.2362, y: -1103.2949}
+      - {x: -749.37006, y: -1103.2949}
+      - {x: -749.37006, y: -927.5488}
+      - {x: -766.4567, y: -917.78516}
+    - - {x: -717.6378, y: -917.78516}
+      - {x: -742.04724, y: -922.667}
+      - {x: -742.04724, y: -1093.5312}
+      - {x: -732.28345, y: -1103.2949}
+      - {x: -576.063, y: -1103.2949}
+      - {x: -556.53546, y: -1100.854}
+      - {x: -556.53546, y: -927.5488}
+      - {x: -563.8583, y: -917.78516}
+    - - {x: -541.8898, y: -917.78516}
+      - {x: -549.2126, y: -942.19434}
+      - {x: -549.2126, y: -1086.2085}
+      - {x: -537.0079, y: -1103.2949}
+      - {x: -371.02362, y: -1103.2949}
+      - {x: -363.70078, y: -1095.9722}
+      - {x: -363.70078, y: -934.8716}
+      - {x: -371.02362, y: -917.78516}
+    - - {x: -346.61417, y: -917.78516}
+      - {x: -356.37796, y: -922.667}
+      - {x: -356.37796, y: -1103.2949}
+      - {x: -185.51181, y: -1103.2949}
+      - {x: -170.86615, y: -1074.0039}
+      - {x: -170.86615, y: -942.19434}
+      - {x: -195.27559, y: -917.78516}
+    - - {x: 183.07086, y: -717.6299}
+      - {x: 170.86615, y: -734.7163}
+      - {x: 170.86615, y: -893.376}
+      - {x: 190.3937, y: -903.13965}
+      - {x: 356.37796, y: -903.13965}
+      - {x: 356.37796, y: -724.95264}
+      - {x: 344.17322, y: -717.6299}
+    - - {x: 388.11023, y: -717.6299}
+      - {x: 366.14172, y: -739.59814}
+      - {x: 366.14172, y: -903.13965}
+      - {x: 549.2126, y: -903.13965}
+      - {x: 549.2126, y: -744.48}
+      - {x: 544.3307, y: -717.6299}
+    - - {x: 568.7402, y: -717.6299}
+      - {x: 558.9764, y: -722.5117}
+      - {x: 558.9764, y: -878.73047}
+      - {x: 563.8583, y: -903.13965}
+      - {x: 727.40155, y: -903.13965}
+      - {x: 742.04724, y: -890.93506}
+      - {x: 742.04724, y: -734.7163}
+      - {x: 739.6063, y: -717.6299}
+    - - {x: 754.25195, y: -717.6299}
+      - {x: 749.37006, y: -734.7163}
+      - {x: 749.37006, y: -881.1714}
+      - {x: 761.5748, y: -903.13965}
+      - {x: 910.4725, y: -903.13965}
+      - {x: 930, y: -898.2578}
+      - {x: 930, y: -720.0708}
+      - {x: 922.6772, y: -717.6299}
+    - - {x: -930, y: -717.6299}
+      - {x: -930, y: -900.6987}
+      - {x: -756.69293, y: -900.6987}
+      - {x: -749.37006, y: -898.2578}
+      - {x: -749.37006, y: -717.6299}
+    - - {x: -717.6378, y: -717.6299}
+      - {x: -742.04724, y: -739.59814}
+      - {x: -742.04724, y: -895.8169}
+      - {x: -727.40155, y: -900.6987}
+      - {x: -556.53546, y: -900.6987}
+      - {x: -556.53546, y: -729.8345}
+      - {x: -558.9764, y: -717.6299}
+    - - {x: -544.3307, y: -717.6299}
+      - {x: -549.2126, y: -722.5117}
+      - {x: -549.2126, y: -876.28955}
+      - {x: -539.44885, y: -900.6987}
+      - {x: -380.7874, y: -900.6987}
+      - {x: -363.70078, y: -886.0532}
+      - {x: -363.70078, y: -717.6299}
+    - - {x: -187.95276, y: -717.6299}
+      - {x: -356.37796, y: -717.6299}
+      - {x: -356.37796, y: -868.9668}
+      - {x: -344.17322, y: -900.6987}
+      - {x: -192.83464, y: -900.6987}
+      - {x: -173.30708, y: -883.6123}
+      - {x: -173.30708, y: -751.80273}
+      - {x: -175.74803, y: -737.1572}
+    - - {x: -905.5906, y: -515.0337}
+      - {x: -930, y: -517.4746}
+      - {x: -930, y: -693.2207}
+      - {x: -920.2362, y: -700.54346}
+      - {x: -749.37006, y: -700.54346}
+      - {x: -749.37006, y: -524.79736}
+      - {x: -766.4567, y: -515.0337}
+    - - {x: -717.6378, y: -515.0337}
+      - {x: -742.04724, y: -519.9155}
+      - {x: -742.04724, y: -690.7798}
+      - {x: -732.28345, y: -700.54346}
+      - {x: -576.063, y: -700.54346}
+      - {x: -556.53546, y: -698.10254}
+      - {x: -556.53546, y: -524.79736}
+      - {x: -563.8583, y: -515.0337}
+    - - {x: -541.8898, y: -515.0337}
+      - {x: -549.2126, y: -524.79736}
+      - {x: -549.2126, y: -690.7798}
+      - {x: -532.126, y: -700.54346}
+      - {x: -383.22836, y: -700.54346}
+      - {x: -363.70078, y: -678.5752}
+      - {x: -363.70078, y: -529.6792}
+      - {x: -373.46457, y: -515.0337}
+    - - {x: -356.37796, y: -515.0337}
+      - {x: -356.37796, y: -700.54346}
+      - {x: -173.30708, y: -700.54346}
+      - {x: -173.30708, y: -515.0337}
+    - - {x: 195.27559, y: -507.71094}
+      - {x: 170.86615, y: -532.1201}
+      - {x: 170.86615, y: -690.7798}
+      - {x: 183.07086, y: -693.2207}
+      - {x: 356.37796, y: -693.2207}
+      - {x: 356.37796, y: -534.56104}
+      - {x: 349.0551, y: -507.71094}
+    - - {x: 366.14172, y: -507.71094}
+      - {x: 366.14172, y: -693.2207}
+      - {x: 549.2126, y: -693.2207}
+      - {x: 549.2126, y: -524.79736}
+      - {x: 544.3307, y: -507.71094}
+    - - {x: 558.9764, y: -507.71094}
+      - {x: 558.9764, y: -693.2207}
+      - {x: 742.04724, y: -693.2207}
+      - {x: 742.04724, y: -510.15186}
+      - {x: 734.7244, y: -507.71094}
+    - - {x: 766.4567, y: -507.71094}
+      - {x: 749.37006, y: -527.2383}
+      - {x: 749.37006, y: -676.1343}
+      - {x: 768.89764, y: -693.2207}
+      - {x: 903.1496, y: -693.2207}
+      - {x: 920.2362, y: -690.7798}
+      - {x: 930, y: -671.25244}
+      - {x: 930, y: -532.1201}
+      - {x: 917.7953, y: -507.71094}
+    - - {x: -915.3543, y: -309.99658}
+      - {x: -930, y: -322.20117}
+      - {x: -930, y: -495.50635}
+      - {x: -749.37006, y: -495.50635}
+      - {x: -749.37006, y: -309.99658}
+    - - {x: -729.8425, y: -309.99658}
+      - {x: -742.04724, y: -324.6421}
+      - {x: -742.04724, y: -493.06543}
+      - {x: -729.8425, y: -495.50635}
+      - {x: -563.8583, y: -495.50635}
+      - {x: -556.53546, y: -480.86084}
+      - {x: -556.53546, y: -312.4375}
+      - {x: -571.1811, y: -309.99658}
+    - - {x: -546.77167, y: -309.99658}
+      - {x: -549.2126, y: -317.31934}
+      - {x: -549.2126, y: -493.06543}
+      - {x: -524.80316, y: -495.50635}
+      - {x: -375.90552, y: -495.50635}
+      - {x: -363.70078, y: -478.41992}
+      - {x: -363.70078, y: -329.52393}
+      - {x: -388.11023, y: -309.99658}
+    - - {x: -331.9685, y: -309.99658}
+      - {x: -356.37796, y: -331.96484}
+      - {x: -356.37796, y: -473.5381}
+      - {x: -341.7323, y: -495.50635}
+      - {x: -190.3937, y: -495.50635}
+      - {x: -173.30708, y: -485.74268}
+      - {x: -173.30708, y: -329.52393}
+      - {x: -190.3937, y: -309.99658}
+    - - {x: 190.3937, y: -309.99658}
+      - {x: 170.86615, y: -331.96484}
+      - {x: 170.86615, y: -493.06543}
+      - {x: 180.62993, y: -495.50635}
+      - {x: 344.17322, y: -495.50635}
+      - {x: 356.37796, y: -478.41992}
+      - {x: 356.37796, y: -334.40576}
+      - {x: 346.61417, y: -309.99658}
+    - - {x: 366.14172, y: -495.50635}
+      - {x: 549.2126, y: -495.50635}
+      - {x: 549.2126, y: -324.6421}
+      - {x: 544.3307, y: -309.99658}
+      - {x: 368.58267, y: -309.99658}
+      - {x: 366.14172, y: -331.96484}
+    - - {x: 568.7402, y: -309.99658}
+      - {x: 558.9764, y: -312.4375}
+      - {x: 558.9764, y: -495.50635}
+      - {x: 742.04724, y: -495.50635}
+      - {x: 742.04724, y: -322.20117}
+      - {x: 729.8425, y: -309.99658}
+    - - {x: 754.25195, y: -309.99658}
+      - {x: 749.37006, y: -327.083}
+      - {x: 749.37006, y: -473.5381}
+      - {x: 761.5748, y: -495.50635}
+      - {x: 910.4725, y: -495.50635}
+      - {x: 930, y: -490.6245}
+      - {x: 930, y: -312.4375}
+      - {x: 922.6772, y: -309.99658}
+    - - {x: -759.13385, y: -112.28223}
+      - {x: -917.7953, y: -112.28223}
+      - {x: -930, y: -122.0459}
+      - {x: -930, y: -283.14648}
+      - {x: -917.7953, y: -297.792}
+      - {x: -768.89764, y: -297.792}
+      - {x: -749.37006, y: -270.9419}
+      - {x: -749.37006, y: -153.77783}
+    - - {x: -742.04724, y: -292.91016}
+      - {x: -739.6063, y: -297.792}
+      - {x: -573.6221, y: -297.792}
+      - {x: -556.53546, y: -292.91016}
+      - {x: -556.53546, y: -124.48682}
+      - {x: -573.6221, y: -112.28223}
+      - {x: -742.04724, y: -112.28223}
+    - - {x: -549.2126, y: -112.28223}
+      - {x: -549.2126, y: -297.792}
+      - {x: -363.70078, y: -297.792}
+      - {x: -363.70078, y: -126.927734}
+      - {x: -373.46457, y: -112.28223}
+    - - {x: -346.61417, y: -112.28223}
+      - {x: -356.37796, y: -129.36865}
+      - {x: -356.37796, y: -283.14648}
+      - {x: -351.49606, y: -297.792}
+      - {x: -195.27559, y: -297.792}
+      - {x: -170.86615, y: -290.46924}
+      - {x: -170.86615, y: -141.57324}
+      - {x: -185.51181, y: -112.28223}
+    - - {x: 178.18898, y: -112.28223}
+      - {x: 170.86615, y: -117.16406}
+      - {x: 170.86615, y: -273.3828}
+      - {x: 175.74803, y: -297.792}
+      - {x: 356.37796, y: -297.792}
+      - {x: 356.37796, y: -112.28223}
+    - - {x: 371.02362, y: -112.28223}
+      - {x: 368.58267, y: -122.0459}
+      - {x: 366.14172, y: -141.57324}
+      - {x: 366.14172, y: -285.5874}
+      - {x: 375.90552, y: -297.792}
+      - {x: 539.44885, y: -297.792}
+      - {x: 549.2126, y: -268.50098}
+      - {x: 549.2126, y: -112.28223}
+    - - {x: 576.063, y: -112.28223}
+      - {x: 558.9764, y: -114.723145}
+      - {x: 558.9764, y: -278.26465}
+      - {x: 580.9449, y: -297.792}
+      - {x: 737.16534, y: -297.792}
+      - {x: 742.04724, y: -273.3828}
+      - {x: 742.04724, y: -112.28223}
+    - - {x: 930, y: -112.28223}
+      - {x: 773.77954, y: -112.28223}
+      - {x: 749.37006, y: -131.80957}
+      - {x: 749.37006, y: -283.14648}
+      - {x: 778.66144, y: -297.792}
+      - {x: 910.4725, y: -297.792}
+      - {x: 930, y: -290.46924}
+    - - {x: 190.3937, y: 80.55029}
+      - {x: 173.30708, y: 58.58203}
+      - {x: 173.30708, y: -104.95947}
+      - {x: 344.17322, y: -104.95947}
+      - {x: 356.37796, y: -87.87305}
+      - {x: 356.37796, y: 61.02295}
+      - {x: 331.9685, y: 80.55029}
+    - - {x: 366.14172, y: -104.95947}
+      - {x: 549.2126, y: -104.95947}
+      - {x: 549.2126, y: 56.141113}
+      - {x: 539.44885, y: 80.55029}
+      - {x: 371.02362, y: 80.55029}
+      - {x: 366.14172, y: 58.58203}
+    - - {x: 568.7402, y: 80.55029}
+      - {x: 558.9764, y: 75.66846}
+      - {x: 558.9764, y: -80.55029}
+      - {x: 563.8583, y: -104.95947}
+      - {x: 727.40155, y: -104.95947}
+      - {x: 742.04724, y: -92.75488}
+      - {x: 742.04724, y: 63.463867}
+      - {x: 739.6063, y: 80.55029}
+    - - {x: 761.5748, y: 80.55029}
+      - {x: 749.37006, y: 61.02295}
+      - {x: 749.37006, y: -65.904785}
+      - {x: 761.5748, y: -104.95947}
+      - {x: 925.1181, y: -104.95947}
+      - {x: 930, y: -102.518555}
+      - {x: 930, y: 63.463867}
+      - {x: 915.3543, y: 80.55029}
+    - - {x: -915.3543, y: 82.99121}
+      - {x: -930, y: 73.22754}
+      - {x: -930, y: -87.87305}
+      - {x: -917.7953, y: -102.518555}
+      - {x: -764.01575, y: -102.518555}
+      - {x: -749.37006, y: -78.109375}
+      - {x: -749.37006, y: 68.3457}
+      - {x: -754.25195, y: 82.99121}
+    - - {x: -739.6063, y: 82.99121}
+      - {x: -742.04724, y: 78.109375}
+      - {x: -742.04724, y: -97.63672}
+      - {x: -727.40155, y: -102.518555}
+      - {x: -556.53546, y: -102.518555}
+      - {x: -556.53546, y: 80.55029}
+      - {x: -568.7402, y: 82.99121}
+    - - {x: -544.3307, y: -102.518555}
+      - {x: -380.7874, y: -102.518555}
+      - {x: -363.70078, y: -97.63672}
+      - {x: -363.70078, y: 82.99121}
+      - {x: -549.2126, y: 82.99121}
+      - {x: -549.2126, y: -95.1958}
+    - - {x: -341.7323, y: 82.99121}
+      - {x: -356.37796, y: 65.904785}
+      - {x: -356.37796, y: -90.313965}
+      - {x: -351.49606, y: -102.518555}
+      - {x: -187.95276, y: -102.518555}
+      - {x: -170.86615, y: -90.313965}
+      - {x: -170.86615, y: 82.99121}
+    - - {x: -930, y: 273.3828}
+      - {x: -930, y: 92.75488}
+      - {x: -915.3543, y: 90.313965}
+      - {x: -761.5748, y: 90.313965}
+      - {x: -749.37006, y: 107.40039}
+      - {x: -749.37006, y: 251.41455}
+      - {x: -766.4567, y: 273.3828}
+    - - {x: -732.28345, y: 273.3828}
+      - {x: -742.04724, y: 268.50098}
+      - {x: -742.04724, y: 100.07764}
+      - {x: -739.6063, y: 90.313965}
+      - {x: -573.6221, y: 90.313965}
+      - {x: -556.53546, y: 112.28223}
+      - {x: -556.53546, y: 256.2964}
+      - {x: -561.4173, y: 273.3828}
+    - - {x: -541.8898, y: 273.3828}
+      - {x: -549.2126, y: 256.2964}
+      - {x: -549.2126, y: 107.40039}
+      - {x: -537.0079, y: 90.313965}
+      - {x: -388.11023, y: 90.313965}
+      - {x: -363.70078, y: 92.75488}
+      - {x: -363.70078, y: 268.50098}
+      - {x: -380.7874, y: 273.3828}
+    - - {x: -187.95276, y: 273.3828}
+      - {x: -339.29135, y: 273.3828}
+      - {x: -356.37796, y: 270.9419}
+      - {x: -356.37796, y: 117.16406}
+      - {x: -346.61417, y: 90.313965}
+      - {x: -192.83464, y: 90.313965}
+      - {x: -173.30708, y: 107.40039}
+      - {x: -173.30708, y: 256.2964}
+    - - {x: 175.74803, y: 278.26465}
+      - {x: 170.86615, y: 268.50098}
+      - {x: 170.86615, y: 92.75488}
+      - {x: 344.17322, y: 92.75488}
+      - {x: 356.37796, y: 117.16406}
+      - {x: 356.37796, y: 273.3828}
+      - {x: 339.29135, y: 278.26465}
+    - - {x: 373.46457, y: 278.26465}
+      - {x: 366.14172, y: 251.41455}
+      - {x: 366.14172, y: 92.75488}
+      - {x: 549.2126, y: 92.75488}
+      - {x: 549.2126, y: 253.85547}
+      - {x: 544.3307, y: 278.26465}
+    - - {x: 566.2992, y: 278.26465}
+      - {x: 558.9764, y: 256.2964}
+      - {x: 558.9764, y: 107.40039}
+      - {x: 568.7402, y: 92.75488}
+      - {x: 724.96063, y: 92.75488}
+      - {x: 742.04724, y: 107.40039}
+      - {x: 742.04724, y: 246.53271}
+      - {x: 737.16534, y: 278.26465}
+    - - {x: 749.37006, y: 278.26465}
+      - {x: 749.37006, y: 92.75488}
+      - {x: 930, y: 92.75488}
+      - {x: 930, y: 278.26465}
+    - - {x: -930, y: 483.30176}
+      - {x: -930, y: 297.792}
+      - {x: -764.01575, y: 297.792}
+      - {x: -749.37006, y: 314.87842}
+      - {x: -749.37006, y: 480.86084}
+      - {x: -761.5748, y: 483.30176}
+    - - {x: -724.96063, y: 483.30176}
+      - {x: -742.04724, y: 449.1289}
+      - {x: -742.04724, y: 297.792}
+      - {x: -558.9764, y: 297.792}
+      - {x: -556.53546, y: 309.99658}
+      - {x: -556.53546, y: 473.5381}
+      - {x: -571.1811, y: 483.30176}
+    - - {x: -544.3307, y: 483.30176}
+      - {x: -549.2126, y: 475.979}
+      - {x: -549.2126, y: 305.11475}
+      - {x: -541.8898, y: 297.792}
+      - {x: -383.22836, y: 297.792}
+      - {x: -363.70078, y: 300.2329}
+      - {x: -363.70078, y: 483.30176}
+    - - {x: -339.29135, y: 483.30176}
+      - {x: -356.37796, y: 468.65625}
+      - {x: -356.37796, y: 302.67383}
+      - {x: -336.8504, y: 297.792}
+      - {x: -173.30708, y: 297.792}
+      - {x: -173.30708, y: 451.56982}
+      - {x: -175.74803, y: 483.30176}
+    - - {x: 183.07086, y: 483.30176}
+      - {x: 170.86615, y: 451.56982}
+      - {x: 170.86615, y: 319.76025}
+      - {x: 183.07086, y: 297.792}
+      - {x: 336.8504, y: 297.792}
+      - {x: 356.37796, y: 319.76025}
+      - {x: 356.37796, y: 480.86084}
+      - {x: 346.61417, y: 483.30176}
+    - - {x: 388.11023, y: 483.30176}
+      - {x: 366.14172, y: 461.3335}
+      - {x: 366.14172, y: 317.31934}
+      - {x: 390.55118, y: 297.792}
+      - {x: 541.8898, y: 297.792}
+      - {x: 549.2126, y: 324.6421}
+      - {x: 549.2126, y: 468.65625}
+      - {x: 539.44885, y: 483.30176}
+    - - {x: 717.6378, y: 483.30176}
+      - {x: 576.063, y: 483.30176}
+      - {x: 558.9764, y: 471.09717}
+      - {x: 558.9764, y: 297.792}
+      - {x: 712.7559, y: 297.792}
+      - {x: 742.04724, y: 302.67383}
+      - {x: 742.04724, y: 456.45166}
+      - {x: 722.5197, y: 480.86084}
+    - - {x: 761.5748, y: 297.792}
+      - {x: 912.9134, y: 297.792}
+      - {x: 930, y: 300.2329}
+      - {x: 930, y: 483.30176}
+      - {x: 756.69293, y: 483.30176}
+      - {x: 749.37006, y: 480.86084}
+      - {x: 749.37006, y: 324.6421}
+    - - {x: -930, y: 678.5752}
+      - {x: -930, y: 507.71094}
+      - {x: -912.9134, y: 493.06543}
+      - {x: -749.37006, y: 493.06543}
+      - {x: -749.37006, y: 678.5752}
+    - - {x: -737.16534, y: 678.5752}
+      - {x: -742.04724, y: 671.25244}
+      - {x: -742.04724, y: 515.0337}
+      - {x: -732.28345, y: 493.06543}
+      - {x: -588.2677, y: 493.06543}
+      - {x: -576.063, y: 495.50635}
+      - {x: -556.53546, y: 517.4746}
+      - {x: -556.53546, y: 659.04785}
+      - {x: -580.9449, y: 678.5752}
+    - - {x: -549.2126, y: 678.5752}
+      - {x: -549.2126, y: 493.06543}
+      - {x: -363.70078, y: 493.06543}
+      - {x: -363.70078, y: 678.5752}
+    - - {x: -336.8504, y: 678.5752}
+      - {x: -356.37796, y: 673.69336}
+      - {x: -356.37796, y: 497.94727}
+      - {x: -336.8504, y: 493.06543}
+      - {x: -173.30708, y: 493.06543}
+      - {x: -173.30708, y: 678.5752}
+    - - {x: 180.62993, y: 678.5752}
+      - {x: 170.86615, y: 668.8115}
+      - {x: 170.86615, y: 507.71094}
+      - {x: 178.18898, y: 493.06543}
+      - {x: 349.0551, y: 493.06543}
+      - {x: 356.37796, y: 522.35645}
+      - {x: 356.37796, y: 671.25244}
+      - {x: 344.17322, y: 678.5752}
+    - - {x: 371.02362, y: 678.5752}
+      - {x: 366.14172, y: 654.166}
+      - {x: 366.14172, y: 493.06543}
+      - {x: 544.3307, y: 493.06543}
+      - {x: 549.2126, y: 497.94727}
+      - {x: 549.2126, y: 666.3706}
+      - {x: 527.2441, y: 678.5752}
+    - - {x: 558.9764, y: 678.5752}
+      - {x: 558.9764, y: 512.5928}
+      - {x: 563.8583, y: 493.06543}
+      - {x: 742.04724, y: 493.06543}
+      - {x: 742.04724, y: 673.69336}
+      - {x: 722.5197, y: 678.5752}
+    - - {x: 764.01575, y: 678.5752}
+      - {x: 749.37006, y: 644.40234}
+      - {x: 749.37006, y: 493.06543}
+      - {x: 930, y: 493.06543}
+      - {x: 930, y: 659.04785}
+      - {x: 908.0315, y: 678.5752}
+    - - {x: -922.6772, y: 873.84863}
+      - {x: -930, y: 868.9668}
+      - {x: -930, y: 688.33887}
+      - {x: -764.01575, y: 688.33887}
+      - {x: -749.37006, y: 712.74805}
+      - {x: -749.37006, y: 859.2031}
+      - {x: -754.25195, y: 873.84863}
+    - - {x: -742.04724, y: 873.84863}
+      - {x: -742.04724, y: 688.33887}
+      - {x: -556.53546, y: 688.33887}
+      - {x: -556.53546, y: 873.84863}
+    - - {x: -517.48035, y: 873.84863}
+      - {x: -549.2126, y: 868.9668}
+      - {x: -549.2126, y: 710.3071}
+      - {x: -537.0079, y: 688.33887}
+      - {x: -385.66928, y: 688.33887}
+      - {x: -363.70078, y: 690.7798}
+      - {x: -363.70078, y: 864.08496}
+      - {x: -375.90552, y: 873.84863}
+    - - {x: -331.9685, y: 873.84863}
+      - {x: -356.37796, y: 866.5259}
+      - {x: -356.37796, y: 705.4253}
+      - {x: -339.29135, y: 688.33887}
+      - {x: -175.74803, y: 688.33887}
+      - {x: -170.86615, y: 707.8662}
+      - {x: -170.86615, y: 873.84863}
+    - - {x: 170.86615, y: 871.4077}
+      - {x: 170.86615, y: 688.33887}
+      - {x: 356.37796, y: 688.33887}
+      - {x: 356.37796, y: 871.4077}
+    - - {x: 366.14172, y: 871.4077}
+      - {x: 366.14172, y: 688.33887}
+      - {x: 529.68506, y: 688.33887}
+      - {x: 549.2126, y: 690.7798}
+      - {x: 549.2126, y: 871.4077}
+    - - {x: 576.063, y: 871.4077}
+      - {x: 558.9764, y: 851.8804}
+      - {x: 558.9764, y: 732.2754}
+      - {x: 561.4173, y: 702.9844}
+      - {x: 585.8268, y: 688.33887}
+      - {x: 722.5197, y: 688.33887}
+      - {x: 742.04724, y: 717.6299}
+      - {x: 742.04724, y: 844.5576}
+      - {x: 724.96063, y: 871.4077}
+    - - {x: 759.13385, y: 871.4077}
+      - {x: 749.37006, y: 849.43945}
+      - {x: 749.37006, y: 707.8662}
+      - {x: 771.33856, y: 688.33887}
+      - {x: 930, y: 688.33887}
+      - {x: 930, y: 868.9668}
+      - {x: 915.3543, y: 871.4077}
+    - - {x: -930, y: 1074.0039}
+      - {x: -930, y: 890.93506}
+      - {x: -925.1181, y: 888.49414}
+      - {x: -778.66144, y: 888.49414}
+      - {x: -749.37006, y: 890.93506}
+      - {x: -749.37006, y: 1069.1221}
+      - {x: -766.4567, y: 1074.0039}
+    - - {x: -737.16534, y: 1074.0039}
+      - {x: -742.04724, y: 1054.4766}
+      - {x: -742.04724, y: 888.49414}
+      - {x: -561.4173, y: 888.49414}
+      - {x: -556.53546, y: 898.2578}
+      - {x: -556.53546, y: 1071.563}
+      - {x: -576.063, y: 1074.0039}
+    - - {x: -549.2126, y: 903.13965}
+      - {x: -544.3307, y: 888.49414}
+      - {x: -383.22836, y: 888.49414}
+      - {x: -363.70078, y: 893.376}
+      - {x: -363.70078, y: 1074.0039}
+      - {x: -537.0079, y: 1074.0039}
+      - {x: -549.2126, y: 1059.3584}
+    - - {x: -356.37796, y: 1074.0039}
+      - {x: -356.37796, y: 888.49414}
+      - {x: -170.86615, y: 888.49414}
+      - {x: -170.86615, y: 1074.0039}
+    - - {x: 180.62993, y: 1076.4448}
+      - {x: 170.86615, y: 1054.4766}
+      - {x: 170.86615, y: 905.58057}
+      - {x: 180.62993, y: 890.93506}
+      - {x: 344.17322, y: 890.93506}
+      - {x: 356.37796, y: 898.2578}
+      - {x: 356.37796, y: 1052.0356}
+      - {x: 351.49606, y: 1076.4448}
+    - - {x: 366.14172, y: 1076.4448}
+      - {x: 366.14172, y: 910.4624}
+      - {x: 383.22836, y: 890.93506}
+      - {x: 527.2441, y: 890.93506}
+      - {x: 549.2126, y: 905.58057}
+      - {x: 549.2126, y: 1069.1221}
+      - {x: 537.0079, y: 1076.4448}
+    - - {x: 566.2992, y: 1076.4448}
+      - {x: 561.4173, y: 1066.6812}
+      - {x: 558.9764, y: 1044.7129}
+      - {x: 558.9764, y: 905.58057}
+      - {x: 568.7402, y: 890.93506}
+      - {x: 727.40155, y: 890.93506}
+      - {x: 742.04724, y: 910.4624}
+      - {x: 742.04724, y: 1074.0039}
+      - {x: 724.96063, y: 1076.4448}
+    - - {x: 749.37006, y: 1076.4448}
+      - {x: 749.37006, y: 903.13965}
+      - {x: 766.4567, y: 890.93506}
+      - {x: 920.2362, y: 890.93506}
+      - {x: 930, y: 908.0215}
+      - {x: 930, y: 1076.4448}
+    - - {x: -930, y: 1269.2773}
+      - {x: -930, y: 1083.7676}
+      - {x: -751.81104, y: 1083.7676}
+      - {x: -749.37006, y: 1091.0903}
+      - {x: -749.37006, y: 1269.2773}
+    - - {x: -727.40155, y: 1269.2773}
+      - {x: -742.04724, y: 1235.1045}
+      - {x: -742.04724, y: 1083.7676}
+      - {x: -561.4173, y: 1083.7676}
+      - {x: -556.53546, y: 1103.2949}
+      - {x: -556.53546, y: 1244.8682}
+      - {x: -571.1811, y: 1269.2773}
+    - - {x: -524.80316, y: 1269.2773}
+      - {x: -549.2126, y: 1249.75}
+      - {x: -549.2126, y: 1086.2085}
+      - {x: -539.44885, y: 1083.7676}
+      - {x: -373.46457, y: 1083.7676}
+      - {x: -363.70078, y: 1095.9722}
+      - {x: -363.70078, y: 1252.1909}
+      - {x: -383.22836, y: 1269.2773}
+    - - {x: -341.7323, y: 1269.2773}
+      - {x: -356.37796, y: 1264.3955}
+      - {x: -356.37796, y: 1103.2949}
+      - {x: -341.7323, y: 1083.7676}
+      - {x: -178.18898, y: 1083.7676}
+      - {x: -173.30708, y: 1110.6177}
+      - {x: -173.30708, y: 1269.2773}
+    - - {x: 192.83464, y: 1271.7183}
+      - {x: 170.86615, y: 1249.75}
+      - {x: 170.86615, y: 1105.7358}
+      - {x: 183.07086, y: 1086.2085}
+      - {x: 327.0866, y: 1086.2085}
+      - {x: 356.37796, y: 1091.0903}
+      - {x: 356.37796, y: 1239.9863}
+      - {x: 344.17322, y: 1271.7183}
+    - - {x: 366.14172, y: 1271.7183}
+      - {x: 366.14172, y: 1086.2085}
+      - {x: 549.2126, y: 1086.2085}
+      - {x: 549.2126, y: 1247.3091}
+      - {x: 544.3307, y: 1271.7183}
+    - - {x: 724.96063, y: 1271.7183}
+      - {x: 576.063, y: 1271.7183}
+      - {x: 558.9764, y: 1252.1909}
+      - {x: 558.9764, y: 1091.0903}
+      - {x: 583.3858, y: 1086.2085}
+      - {x: 732.28345, y: 1086.2085}
+      - {x: 742.04724, y: 1103.2949}
+      - {x: 742.04724, y: 1249.75}
+    - - {x: 749.37006, y: 1271.7183}
+      - {x: 749.37006, y: 1088.6494}
+      - {x: 764.01575, y: 1086.2085}
+      - {x: 930, y: 1086.2085}
+      - {x: 930, y: 1271.7183}
+    - - {x: -917.7953, y: 1464.5508}
+      - {x: -930, y: 1442.5825}
+      - {x: -930, y: 1296.1274}
+      - {x: -927.5591, y: 1279.041}
+      - {x: -749.37006, y: 1279.041}
+      - {x: -749.37006, y: 1452.3462}
+      - {x: -771.33856, y: 1464.5508}
+    - - {x: -742.04724, y: 1464.5508}
+      - {x: -742.04724, y: 1279.041}
+      - {x: -563.8583, y: 1279.041}
+      - {x: -556.53546, y: 1286.3638}
+      - {x: -556.53546, y: 1447.4644}
+      - {x: -571.1811, y: 1464.5508}
+    - - {x: -546.77167, y: 1464.5508}
+      - {x: -549.2126, y: 1452.3462}
+      - {x: -549.2126, y: 1283.9229}
+      - {x: -539.44885, y: 1279.041}
+      - {x: -380.7874, y: 1279.041}
+      - {x: -363.70078, y: 1296.1274}
+      - {x: -363.70078, y: 1447.4644}
+      - {x: -380.7874, y: 1464.5508}
+    - - {x: -339.29135, y: 1464.5508}
+      - {x: -356.37796, y: 1462.1099}
+      - {x: -356.37796, y: 1318.0957}
+      - {x: -353.937, y: 1305.8911}
+      - {x: -336.8504, y: 1279.041}
+      - {x: -192.83464, y: 1279.041}
+      - {x: -173.30708, y: 1288.8047}
+      - {x: -173.30708, y: 1452.3462}
+      - {x: -185.51181, y: 1464.5508}
+    - - {x: 175.74803, y: 1469.4326}
+      - {x: 170.86615, y: 1459.669}
+      - {x: 170.86615, y: 1283.9229}
+      - {x: 349.0551, y: 1283.9229}
+      - {x: 356.37796, y: 1293.6865}
+      - {x: 356.37796, y: 1464.5508}
+      - {x: 339.29135, y: 1469.4326}
+    - - {x: 366.14172, y: 1301.0093}
+      - {x: 375.90552, y: 1283.9229}
+      - {x: 527.2441, y: 1283.9229}
+      - {x: 549.2126, y: 1288.8047}
+      - {x: 549.2126, y: 1459.669}
+      - {x: 546.77167, y: 1469.4326}
+      - {x: 388.11023, y: 1469.4326}
+      - {x: 366.14172, y: 1447.4644}
+    - - {x: 563.8583, y: 1469.4326}
+      - {x: 558.9764, y: 1445.0234}
+      - {x: 558.9764, y: 1301.0093}
+      - {x: 566.2992, y: 1283.9229}
+      - {x: 727.40155, y: 1283.9229}
+      - {x: 742.04724, y: 1288.8047}
+      - {x: 742.04724, y: 1452.3462}
+      - {x: 729.8425, y: 1469.4326}
+    - - {x: 749.37006, y: 1283.9229}
+      - {x: 930, y: 1283.9229}
+      - {x: 930, y: 1469.4326}
+      - {x: 764.01575, y: 1469.4326}
+      - {x: 749.37006, y: 1454.7871}
+    - - {x: -908.0315, y: 1667.147}
+      - {x: -930, y: 1664.706}
+      - {x: -930, y: 1486.519}
+      - {x: -912.9134, y: 1481.6372}
+      - {x: -754.25195, y: 1481.6372}
+      - {x: -749.37006, y: 1491.4009}
+      - {x: -749.37006, y: 1652.5015}
+      - {x: -761.5748, y: 1667.147}
+    - - {x: -737.16534, y: 1667.147}
+      - {x: -742.04724, y: 1657.3833}
+      - {x: -742.04724, y: 1493.8418}
+      - {x: -722.5197, y: 1481.6372}
+      - {x: -573.6221, y: 1481.6372}
+      - {x: -556.53546, y: 1510.9282}
+      - {x: -556.53546, y: 1659.8242}
+      - {x: -583.3858, y: 1667.147}
+    - - {x: -388.11023, y: 1667.147}
+      - {x: -532.126, y: 1667.147}
+      - {x: -549.2126, y: 1635.415}
+      - {x: -549.2126, y: 1481.6372}
+      - {x: -363.70078, y: 1481.6372}
+      - {x: -363.70078, y: 1657.3833}
+      - {x: -378.34647, y: 1664.706}
+    - - {x: -356.37796, y: 1667.147}
+      - {x: -356.37796, y: 1486.519}
+      - {x: -334.40945, y: 1481.6372}
+      - {x: -178.18898, y: 1481.6372}
+      - {x: -173.30708, y: 1488.96}
+      - {x: -173.30708, y: 1645.1787}
+      - {x: -175.74803, y: 1667.147}
+    - - {x: 173.30708, y: 1676.9106}
+      - {x: 170.86615, y: 1664.706}
+      - {x: 170.86615, y: 1496.2827}
+      - {x: 183.07086, y: 1491.4009}
+      - {x: 341.7323, y: 1491.4009}
+      - {x: 356.37796, y: 1503.6055}
+      - {x: 356.37796, y: 1659.8242}
+      - {x: 329.52756, y: 1676.9106}
+    - - {x: 366.14172, y: 1508.4873}
+      - {x: 375.90552, y: 1491.4009}
+      - {x: 527.2441, y: 1491.4009}
+      - {x: 549.2126, y: 1496.2827}
+      - {x: 549.2126, y: 1667.147}
+      - {x: 546.77167, y: 1676.9106}
+      - {x: 388.11023, y: 1676.9106}
+      - {x: 366.14172, y: 1654.9424}
+    - - {x: 558.9764, y: 1676.9106}
+      - {x: 558.9764, y: 1501.1646}
+      - {x: 561.4173, y: 1491.4009}
+      - {x: 720.07874, y: 1491.4009}
+      - {x: 742.04724, y: 1520.6919}
+      - {x: 742.04724, y: 1650.0605}
+      - {x: 727.40155, y: 1676.9106}
+    - - {x: 749.37006, y: 1525.5737}
+      - {x: 751.81104, y: 1506.0464}
+      - {x: 756.69293, y: 1491.4009}
+      - {x: 912.9134, y: 1491.4009}
+      - {x: 930, y: 1493.8418}
+      - {x: 930, y: 1676.9106}
+      - {x: 764.01575, y: 1676.9106}
+      - {x: 749.37006, y: 1645.1787}
+    - - {x: -912.9134, y: 1879.5068}
+      - {x: -930, y: 1877.0659}
+      - {x: -930, y: 1693.9971}
+      - {x: -768.89764, y: 1693.9971}
+      - {x: -749.37006, y: 1703.7607}
+      - {x: -749.37006, y: 1864.8613}
+      - {x: -761.5748, y: 1879.5068}
+    - - {x: -727.40155, y: 1879.5068}
+      - {x: -742.04724, y: 1855.0977}
+      - {x: -742.04724, y: 1698.8789}
+      - {x: -720.07874, y: 1693.9971}
+      - {x: -563.8583, y: 1693.9971}
+      - {x: -556.53546, y: 1711.0835}
+      - {x: -556.53546, y: 1859.9795}
+      - {x: -568.7402, y: 1879.5068}
+    - - {x: -527.2441, y: 1879.5068}
+      - {x: -549.2126, y: 1874.625}
+      - {x: -549.2126, y: 1706.2017}
+      - {x: -541.8898, y: 1693.9971}
+      - {x: -363.70078, y: 1693.9971}
+      - {x: -363.70078, y: 1862.4204}
+      - {x: -373.46457, y: 1879.5068}
+    - - {x: -356.37796, y: 1708.6426}
+      - {x: -349.0551, y: 1693.9971}
+      - {x: -192.83464, y: 1693.9971}
+      - {x: -173.30708, y: 1698.8789}
+      - {x: -173.30708, y: 1869.7432}
+      - {x: -175.74803, y: 1879.5068}
+      - {x: -329.52756, y: 1879.5068}
+      - {x: -356.37796, y: 1857.5386}
+    - - {x: 175.74803, y: 1879.5068}
+      - {x: 170.86615, y: 1869.7432}
+      - {x: 170.86615, y: 1693.9971}
+      - {x: 344.17322, y: 1693.9971}
+      - {x: 356.37796, y: 1718.4062}
+      - {x: 356.37796, y: 1874.625}
+      - {x: 339.29135, y: 1879.5068}
+    - - {x: 373.46457, y: 1879.5068}
+      - {x: 366.14172, y: 1852.6567}
+      - {x: 366.14172, y: 1693.9971}
+      - {x: 549.2126, y: 1693.9971}
+      - {x: 549.2126, y: 1855.0977}
+      - {x: 544.3307, y: 1879.5068}
+    - - {x: 558.9764, y: 1879.5068}
+      - {x: 558.9764, y: 1693.9971}
+      - {x: 742.04724, y: 1693.9971}
+      - {x: 742.04724, y: 1847.7749}
+      - {x: 737.16534, y: 1879.5068}
+    - - {x: 751.81104, y: 1879.5068}
+      - {x: 749.37006, y: 1864.8613}
+      - {x: 749.37006, y: 1701.3198}
+      - {x: 768.89764, y: 1693.9971}
+      - {x: 908.0315, y: 1693.9971}
+      - {x: 930, y: 1713.5244}
+      - {x: 930, y: 1857.5386}
+      - {x: 920.2362, y: 1879.5068}
+    - - {x: -478.4252, y: 2099.1895}
+      - {x: -478.4252, y: 1921.0024}
+      - {x: -471.10236, y: 1916.1206}
+      - {x: -312.44095, y: 1916.1206}
+      - {x: -295.35434, y: 1918.5615}
+      - {x: -295.35434, y: 2067.4575}
+      - {x: -302.67715, y: 2099.1895}
+    - - {x: -283.1496, y: 2099.1895}
+      - {x: -283.1496, y: 1928.3252}
+      - {x: -280.70865, y: 1916.1206}
+      - {x: -122.04725, y: 1916.1206}
+      - {x: -100.07874, y: 1935.648}
+      - {x: -100.07874, y: 2094.3076}
+      - {x: -124.48819, y: 2099.1895}
+    - - {x: -85.433075, y: 2099.1895}
+      - {x: -85.433075, y: 1940.5298}
+      - {x: -63.46457, y: 1916.1206}
+      - {x: 80.55118, y: 1916.1206}
+      - {x: 97.637794, y: 1923.4434}
+      - {x: 97.637794, y: 2099.1895}
+    - - {x: 126.92914, y: 2099.1895}
+      - {x: 109.84252, y: 2091.8667}
+      - {x: 109.84252, y: 1925.8843}
+      - {x: 117.16535, y: 1916.1206}
+      - {x: 292.9134, y: 1916.1206}
+      - {x: 292.9134, y: 2094.3076}
+      - {x: 283.1496, y: 2099.1895}
+    - - {x: 331.9685, y: 2099.1895}
+      - {x: 307.55905, y: 2084.544}
+      - {x: 307.55905, y: 1933.207}
+      - {x: 329.52756, y: 1916.1206}
+      - {x: 471.10236, y: 1916.1206}
+      - {x: 490.6299, y: 1925.8843}
+      - {x: 490.6299, y: 2079.662}
+      - {x: 485.74805, y: 2099.1895}
+    - - {x: -756.69293, y: 2301.7856}
+      - {x: -756.69293, y: 2116.276}
+      - {x: -385.66928, y: 2116.276}
+      - {x: -385.66928, y: 2299.3447}
+      - {x: -395.43307, y: 2301.7856}
+    - - {x: -349.0551, y: 2301.7856}
+      - {x: -371.02362, y: 2282.2583}
+      - {x: -371.02362, y: 2116.276}
+      - {x: -4.88189, y: 2116.276}
+      - {x: -2.440945, y: 2118.7168}
+      - {x: -2.440945, y: 2277.3765}
+      - {x: -19.52756, y: 2301.7856}
+    - - {x: 14.645669, y: 2301.7856}
+      - {x: 12.204724, y: 2284.6992}
+      - {x: 12.204724, y: 2116.276}
+      - {x: 380.7874, y: 2116.276}
+      - {x: 380.7874, y: 2284.6992}
+      - {x: 371.02362, y: 2301.7856}
+    - - {x: 417.40158, y: 2301.7856}
+      - {x: 397.87402, y: 2287.1401}
+      - {x: 397.87402, y: 2128.4805}
+      - {x: 424.72443, y: 2116.276}
+      - {x: 756.69293, y: 2116.276}
+      - {x: 768.89764, y: 2121.1577}
+      - {x: 768.89764, y: 2301.7856}
+    - - {x: -756.69293, y: 2499.5}
+      - {x: -756.69293, y: 2318.872}
+      - {x: -385.66928, y: 2318.872}
+      - {x: -385.66928, y: 2499.5}
+    - - {x: -368.58267, y: 2499.5}
+      - {x: -371.02362, y: 2472.65}
+      - {x: -371.02362, y: 2331.0767}
+      - {x: -361.25986, y: 2318.872}
+      - {x: -12.204724, y: 2318.872}
+      - {x: -2.440945, y: 2323.754}
+      - {x: -2.440945, y: 2489.7363}
+      - {x: -4.88189, y: 2499.5}
+    - - {x: 368.58267, y: 2499.5}
+      - {x: 19.52756, y: 2499.5}
+      - {x: 12.204724, y: 2472.65}
+      - {x: 12.204724, y: 2345.7222}
+      - {x: 29.291338, y: 2318.872}
+      - {x: 358.8189, y: 2318.872}
+      - {x: 380.7874, y: 2333.5176}
+      - {x: 380.7874, y: 2472.65}
+      - {x: 378.34647, y: 2494.6182}
+    - - {x: 764.01575, y: 2499.5}
+      - {x: 397.87402, y: 2499.5}
+      - {x: 397.87402, y: 2350.604}
+      - {x: 412.51968, y: 2318.872}
+      - {x: 746.92914, y: 2318.872}
+      - {x: 766.4567, y: 2343.2812}
+      - {x: 768.89764, y: 2348.163}
+      - {x: 768.89764, y: 2472.65}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
